@@ -1,0 +1,602 @@
+[
+  {
+    "question": "What trading opportunities does KTX.Finance offer?",
+    "answer": "KTX.Finance offers leveraged trading opportunities on major trading pairs."
+  },
+  {
+    "question": "What assets can users trade on KTX.Finance?",
+    "answer": "Users can trade assets such as BTC, ETH, BNB, and MNT."
+  },
+  {
+    "question": "How much leverage can users utilize with KTX.Finance?",
+    "answer": "Users have the ability to trade these assets with up to 100x leverage."
+  },
+  {
+    "question": "What is the primary aim of KTX.Finance?",
+    "answer": "The aim of KTX.Finance is democratizing perpetuals trading for the masses."
+  },
+  {
+    "question": "How did KTX.Finance go live?",
+    "answer": "KTX.Finance went live in June 2023."
+  },
+  {
+    "question": "Why was KTX.Finance created?",
+    "answer": "It was hatched in the aftermath of FTX’s collapse in 2022."
+  },
+  {
+    "question": "What kind of protocol is KTX.Finance?",
+    "answer": "KTX.Finance is a decentralized perpetual trading protocol."
+  },
+  {
+    "question": "How does the platform address issues faced by traditional traders?",
+    "answer": "It addresses the need for a decentralized, fast and trustless trading platform due to opaque technological stacks and market makers in traditional markets."
+  },
+  {
+    "question": "What are the key elements KTX.Finance seeks without sacrificing quality?",
+    "answer": "KTX is driven to democratize perpetuals trading for the masses without sacrificing quality, speed and security."
+  },
+  {
+    "question": "What risks does traders face in traditional financial markets according to the text?",
+    "answer": "Traders are at the mercy of opaque technological stacks and market makers, resulting in heightened counterparty risk, increased regulatory requirements, and a single point of failure."
+  },
+  {
+    "question": "How is KTX.Finance decentralized?",
+    "answer": "KTX.Finance is live across multiple blockchain networks including Mantle, BNB Chain and Arbitrum."
+  },
+  {
+    "question": "What entities incubated KTX.Finance?",
+    "answer": "KTX.Finance is incubated by ByteTrade Lab."
+  },
+  {
+    "question": "How much financing did ByteTrade Lab raise?",
+    "answer": "ByteTrade Lab raised 50 million USD Series A financing in June 2022."
+  },
+  {
+    "question": "What blockchain networks does KTX.Finance operate on?",
+    "answer": "KTX.Finance is live across multiple blockchain network including Mantle, BNB Chain and Arbitrum."
+  },
+  {
+    "question": "Who were some of the investors in ByteTrade Lab's Series A round?",
+    "answer": "Investors included Susquehanna International Group (SIG) Asia Venture Capital Fund, INCE Capital, BAI Capital, Sky9 Capital, BlueRun, and PCG."
+  },
+  {
+    "question": "What was the primary aim of KTX.Finance?",
+    "answer": "The aim of KTX.Finance was democratizing perpetuals trading for the masses."
+  },
+  {
+    "question": "What is KLP?",
+    "answer": "KLP is the KTX.Finance Liquidity Pool, which is an integral part of the protocol that enables trade execution and settlement."
+  },
+  {
+    "question": "How does the KLP function within the protocol?",
+    "answer": "The KLP enables trade execution and settlement."
+  },
+  {
+    "question": "What core components make up the Trading Engine?",
+    "answer": "The Trading Engine includes Liquidity Provision, Margin Trading, and Spot Swaps."
+  },
+  {
+    "question": "How did KTX.Finance launch?",
+    "answer": "KTX.Finance went live in June 2023."
+  },
+  {
+    "question": "Why was KTX.Finance hatched?",
+    "answer": "It was hatched in the aftermath of FTX’s collapse in 2022."
+  },
+  {
+    "question": "What funding did KTX.Finance raise?",
+    "answer": "KTX.Finance raised a $4 million USD seed round financing led by Hashed."
+  },
+  {
+    "question": "Who were some of the participants in the seed round?",
+    "answer": "Other participants included AlphaLab Capital, CRIT Ventures, 100&100 Ventures, Trinito Corporation / Morpheus, GSG Asset, KuCoin Ventures and Sky9 Capital."
+  },
+  {
+    "question": "What milestone was achieved in Q4 2023 regarding trading volume?",
+    "answer": "In 4Q2023, the protocol broke USD 1 billion in Cumulative Trading Volume."
+  },
+  {
+    "question": "How did the protocol launch on different networks?",
+    "answer": "It launched on the BNB Chain and later on the Mantle Network and Arbitrum Network."
+  },
+  {
+    "question": "What was a significant feature implemented in Q2 2024?",
+    "answer": "In 2Q2024, the protocol introduced a Gamified Trading Experience."
+  },
+  {
+    "question": "What tools were introduced for the community and users in 2Q2024?",
+    "answer": "The updates included a TradingView Upgrade, Special Community Events, and Telegram Price Alert Bots."
+  },
+  {
+    "question": "What kind of trading activities does the KLP enable?",
+    "answer": "The KLP enables trade execution and settlement."
+  },
+  {
+    "question": "How is liquidity provided in the protocol?",
+    "answer": "Liquidity Provision is one of the functions of the Trading Engine."
+  },
+  {
+    "question": "What are the functional categories of the Trading Engine?",
+    "answer": "The functional categories of the Trading Engine are Liquidity Provision, Margin Trading, and Spot Swaps."
+  },
+  {
+    "question": "How does the allocation of assets in KLP vary?",
+    "answer": "The allocation of assets varies depending on the network on which the protocol is active."
+  },
+  {
+    "question": "What is the role of KLP before describing the trading process?",
+    "answer": "KLP's role is in the protocol before describing the trading process."
+  },
+  {
+    "question": "Why do depositors receive compensation?",
+    "answer": "To compensate depositors, KTX allocates majority of the protocol fees to depositors along with other benefits."
+  },
+  {
+    "question": "How are depositors compensated?",
+    "answer": "KTX allocates majority of the protocol fees to depositors along with other benefits."
+  },
+  {
+    "question": "How do depositors participate in KLP?",
+    "answer": "Depositors provide liquidity and act as a market maker for perpetuals trading / spot swaps on KTX.Finance."
+  },
+  {
+    "question": "What is the function of KLP depositors?",
+    "answer": "Depositors of KLP provide liquidity and act as a market maker for perpetuals trading / spot swaps on KTX.Finance."
+  },
+  {
+    "question": "How are long trades settled on KTX.Finance?",
+    "answer": "Long trades, such as long BTC positions, are physically settled. Trade settlement occurs in the respective trading pair."
+  },
+  {
+    "question": "Where do profits or losses from long positions get realized?",
+    "answer": "Profits or losses from long positions are realized in the underlying asset itself."
+  },
+  {
+    "question": "What is the entry price parameter for a trade?",
+    "answer": "The Entry Price parameter is $10,000."
+  },
+  {
+    "question": "What collateral is required for a specific trade?",
+    "answer": "Collateral is 1 BTC."
+  },
+  {
+    "question": "How much leverage is available in the example parameters?",
+    "answer": "The Leverage parameter is 50x."
+  },
+  {
+    "question": "How much amount is reserved upon execution of a trade?",
+    "answer": "50 BTC will be reserved from KLP upon execution of this trade."
+  },
+  {
+    "question": "What is the profit calculation example based on price movement?",
+    "answer": "If the Exit Price is $10,100 (+1% price movement), the Profit Calculation is 1% * 50x = 50%."
+  },
+  {
+    "question": "What is the benefit realized by a trader in the example scenario?",
+    "answer": "The trader profits 50%, and 0.5 BTC from the Reserved Amount is paid out to the trader."
+  },
+  {
+    "question": "What happens to the KLP pool when a trade results in a 50% loss?",
+    "answer": "0.5 BTC will be added to the KLP pool."
+  },
+  {
+    "question": "How is settlement handled for short trades on KTX.Finance?",
+    "answer": "Short trades on KTX.Finance are cash settled, implying that the settlement for short positions is in USDT."
+  },
+  {
+    "question": "What calculation determines the loss incurred by a trader based on a 1% price movement and 50x leverage?",
+    "answer": "-1% * 50x = -50%."
+  },
+  {
+    "question": "How is profit calculated for a trade involving a 1% price movement and 50x leverage?",
+    "answer": "1% * 50x = 50%."
+  },
+  {
+    "question": "What are the parameters provided for executing a trade?",
+    "answer": "The parameters include an Entry Price of $10,000, Collateral of 1,000 USDT, Leverage of 50x, and a Reserved Amount of 50,000 USDT."
+  },
+  {
+    "question": "How much USDT is reserved from KLP upon the execution of a trade?",
+    "answer": "50,000 USDT will be reserved from KLP upon the execution of this trade."
+  },
+  {
+    "question": "What potential outcome occurs if the Exit Price is $9,900 (-1% price movement)?",
+    "answer": "The trader profits 50%, and 500 USDT from the Reserved Amount is paid out to the trader."
+  },
+  {
+    "question": "How much is added to the KLP pool when a trader incurs a 50% loss?",
+    "answer": "0.5 BTC will be added to the KLP pool."
+  },
+  {
+    "question": "What are the primary risks faced by LPs within the KLP pool?",
+    "answer": "LPs within the KLP pool are exposed to price movements in the underlying assets due to the pool's design."
+  },
+  {
+    "question": "Why are LPs sensitive to fluctuations in asset prices?",
+    "answer": "The value of LPs' holdings are sensitive to fluctuations in the prices of the pool's assets, reflecting the inherent volatility in the cryptocurrency market."
+  },
+  {
+    "question": "How can LPs mitigate their exposure to asset price changes?",
+    "answer": "LPs can short the relevant assets in their respective weightages within the pool. Creating a delta-neutral environment."
+  },
+  {
+    "question": "What inherent exposure do LPs possess by depositing into KLP?",
+    "answer": "LPs inherently possess long exposure to the assets within the KLP pool by depositing into it."
+  },
+  {
+    "question": "Why might a decline in underlying asset prices impact LPs' holdings?",
+    "answer": "A decline in the prices of the underlying assets may result in a negative impact on LPs' holdings."
+  },
+  {
+    "question": "What is the mechanism used to manage exposure to asset price changes?",
+    "answer": "LPs can short the relevant assets in their respective weightages within the pool."
+  },
+  {
+    "question": "How does the design of the KLP pool affect LPs' holdings?",
+    "answer": "LPs within the KLP pool are exposed to price movements in the underlying assets due to the pool's design."
+  },
+  {
+    "question": "What is the function of ironment?",
+    "answer": "ironment helps LPs balance their portfolio, offsetting the impact of price fluctuations in the underlying assets."
+  },
+  {
+    "question": "Why is KTX working with institutional trading houses and protocols?",
+    "answer": "KTX is working with several institutional trading houses and protocols to provide LPs with strategies to achieve market neutral returns."
+  },
+  {
+    "question": "What role does KLP assume?",
+    "answer": "KLP assumes the role of the counterparty to trades on KTX."
+  },
+  {
+    "question": "How is the pool's performance linked to trading activity?",
+    "answer": "the pool's performance is inversely linked to the success of trading activity."
+  },
+  {
+    "question": "What approach can LPs adopt to position themselves against adverse movements?",
+    "answer": "LPs can adopt a strategy that mirrors traders' trades."
+  },
+  {
+    "question": "How does mirroring traders' trades benefit LPs?",
+    "answer": "By doing so, LPs position themselves to profit in a similar manner to traders."
+  },
+  {
+    "question": "What is the result of this hedging approach for LPs?",
+    "answer": "This approach effectively hedges LPs against adverse Trader PnL movements."
+  },
+  {
+    "question": "What characteristic does the risk management strategy create for LPs?",
+    "answer": "The risk management strategy creates a payment structure for LPs characterized by low risk and high return potential."
+  },
+  {
+    "question": "What is the relationship between LPs' objectives and managing exposure?",
+    "answer": "This aligns with LPs' objectives to optimize returns while managing exposure to market dynamics."
+  },
+  {
+    "question": "What phenomena might occur in strongly trending markets?",
+    "answer": "there may be a notable Open Interest (OI) skew where traders might unilaterally enter either long or short positions."
+  },
+  {
+    "question": "What is an example of a strong trend mentioned in the text?",
+    "answer": "a bull market where most traders prefer long positions."
+  },
+  {
+    "question": "How can LPs position themselves to profit similarly to traders?",
+    "answer": "LPs can adopt a strategy that mirrors traders' trades."
+  },
+  {
+    "question": "What specific assets can traders trade on KTX.Finance?",
+    "answer": "traders can trade assets such as BTC, ETH, BNB, and MNT."
+  },
+  {
+    "question": "How much leverage is provided by KTX.Finance for trading opportunities?",
+    "answer": "KTX.Finance provides the ability to trade assets with up to 100x leverage."
+  },
+  {
+    "question": "What are the benefits of the risk management strategy for LPs?",
+    "answer": "The risk management strategy creates a payment structure characterized by low risk and high return potential."
+  },
+  {
+    "question": "What parameters must a trader be familiar with before opening a position?",
+    "answer": "The parameters are Collateral Management, Leverage, Trading Pairs, Types of Orders, Trading Settlement, Open Interest Limitations, Liquidations, and Collateral Management."
+  },
+  {
+    "question": "What is the collateral management system tied to on KTX.Finance?",
+    "answer": "The collateral management system on KTX.Finance is tied to the direction of the trader's positions."
+  },
+  {
+    "question": "How is collateral for long trades denominated?",
+    "answer": "For long trades, collateral is denominated in the respective trading pair's native currency."
+  },
+  {
+    "question": "What is an example of collateral denomination for long ETH / USDT trades?",
+    "answer": "Collateral for long ETH / USDT trades is denominated in ETH."
+  },
+  {
+    "question": "How does a user open a long trade even without possessing the specific assets?",
+    "answer": "A swap router is employed to automatically convert the user's holdings into the required asset before initiating the trade."
+  },
+  {
+    "question": "What is the collateral denomination for all short trades?",
+    "answer": "Collateral for all short trades are denominated in stablecoins irrespective of trading pair."
+  },
+  {
+    "question": "How are short position collaterals settled?",
+    "answer": "Collateral for short positions are all denominated in stablecoins and settled in USDT."
+  },
+  {
+    "question": "What is leverage?",
+    "answer": "Leverage is the use of borrowed capital to create larger positions in a certain trading pair."
+  },
+  {
+    "question": "How is leverage enabled on KTX.Finance?",
+    "answer": "Leverage is enabled by lending out assets in the KLP pool."
+  },
+  {
+    "question": "Why do traders have to pay a Borrowing Fee when conducting margin trades?",
+    "answer": "Traders have to pay a Borrowing Fee when conducting margin trades because leverage is enabled by lending out assets in the KLP pool."
+  },
+  {
+    "question": "What is the maximum leverage allowed on KTX.Finance?",
+    "answer": "The maximum leverage allowed on KTX.Finance is 100x."
+  },
+  {
+    "question": "How much collateral is required for a $10,000 position using 10x leverage?",
+    "answer": "Traders trading with 10x leverage are able to open a position of $10,000 with only $1,000 in collateral."
+  },
+  {
+    "question": "What is an example of how the swap router works for opening a long ETH trade?",
+    "answer": "The swap router automatically converts the user's USDT holdings into the required asset (ETH) before initiating the trade."
+  },
+  {
+    "question": "How many examples of parameters are listed before opening a position?",
+    "answer": "There are several parameters listed, including Collateral Management, Leverage, Trading Pairs, Types of Orders, Trading Settlement, Open Interest Limitations, and Liquidations."
+  },
+  {
+    "question": "What is the relationship between collateral management and the direction of positions?",
+    "answer": "The collateral management system is tied to the direction of the trader's positions."
+  },
+  {
+    "question": "What are some parameters you must be familiar with before opening a position?",
+    "answer": "Parameters include Collateral Management, Leverage, Trading Pairs, Types of Orders, Trading Settlement, Open Interest Limitations, Liquidations, and Collateral Management."
+  },
+  {
+    "question": "What is the formula for Leverage?",
+    "answer": "Leverage = PositionSize / PositionCollateral"
+  },
+  {
+    "question": "How does the position collateral get affected?",
+    "answer": "The position collateral will be affected by both asset price movements and borrowing fees."
+  },
+  {
+    "question": "What happens if there are adverse price movements?",
+    "answer": "If there are adverse price movements, the traders leverage on the position will increase beyond the initially used leverage."
+  },
+  {
+    "question": "What is a potential result of adverse price movements?",
+    "answer": "This could potentially result in a liquidation."
+  },
+  {
+    "question": "How are long trades defined?",
+    "answer": "Long Trades speculate on asset prices increasing through your trading time frame."
+  },
+  {
+    "question": "What are the two directions traders can open trades in on KTX.Finance?",
+    "answer": "Traders can open trades in two directions: Long Trades and Short Trades."
+  },
+  {
+    "question": "What is the composition of the KLP pool on the Mantle network?",
+    "answer": "On the Mantle network, the KLP pool comprises 50% USDT and 50% BTC/ETH/MNT."
+  },
+  {
+    "question": "How is KLP allocated on the BNB Chain?",
+    "answer": "Conversely, on BNB Chain, the KLP allocation is 50% USDT and 50% BTC/ETH/BNB."
+  },
+  {
+    "question": "Why are the trading pairs different on different networks?",
+    "answer": "Trading pairs on KTX.Finance vary depending on the network on which the protocol is active."
+  },
+  {
+    "question": "What trading pairs are supported on the Mantle Network?",
+    "answer": "The trading pairs on the Mantle Network include BTC / USDT, ETH / USDT, and MNT / USDT."
+  },
+  {
+    "question": "How many specific trading pairs are listed for the BNB Chain?",
+    "answer": "The trading pairs supported on BNB Chain include BTC / USDT, ETH / USDT, and BNB / USDT."
+  },
+  {
+    "question": "What trading pairs are available on the Arbitrum network?",
+    "answer": "The available trading pairs on Arbitrum include BTC / USDT, ETH / USDT, ARB / USDT, SOL / USDT, and LINK / USDT."
+  },
+  {
+    "question": "How does KLP leverage relate to price movements?",
+    "answer": "The position collateral will be affected by both asset price movements and borrowing fees."
+  },
+  {
+    "question": "What is an example of a trading pair on the Mantle Network?",
+    "answer": "Examples of trading pairs on the Mantle Network include BTC / USDT, ETH / USDT, and MNT / USDT."
+  },
+  {
+    "question": "What is the initial entry price for the KLP trade scenario?",
+    "answer": "The entry price is $10,000."
+  },
+  {
+    "question": "How is profit calculated in the first scenario (Exit Price $10,100)?",
+    "answer": "Profit is calculated as 1% multiplied by 50x leverage, resulting in a 50% profit."
+  },
+  {
+    "question": "What happens to the Reserved Amount upon incurring a loss in the KLP scenario?",
+    "answer": "If there is a loss, 0.5 BTC will be added to the KLP pool."
+  },
+  {
+    "question": "How are short trades on KTX.Finance settled?",
+    "answer": "Short trades on KTX.Finance are cash settled, implying settlement is in USDT."
+  },
+  {
+    "question": "What is the collateral used for the initial KLP trade example?",
+    "answer": "The collateral is 1 BTC."
+  },
+  {
+    "question": "How much is paid out to the trader if they achieve a profit of 50% in the first scenario?",
+    "answer": "0.5 BTC from the Reserved Amount is paid out to the trader."
+  },
+  {
+    "question": "What is the risk calculation for a -1% price movement in KLP?",
+    "answer": "A -1% price movement results in a -50% loss (calculated as -1% * 50x)."
+  },
+  {
+    "question": "What happens to the Reserved Amount if there is a +1% price movement (profit) in KLP?",
+    "answer": "In a profit scenario, the trader profits 50%, and 0.5 BTC from the Reserved Amount is paid out to the trader."
+  },
+  {
+    "question": "What are the parameters for the USDT trade scenario?",
+    "answer": "The parameters include an Entry Price of $10,000, Collateral of 1,000 USDT, Leverage of 50x, and a Reserved Amount of 50,000 USDT."
+  },
+  {
+    "question": "Why is the calculation based on a 50x leverage?",
+    "answer": "The profit or loss calculation involves multiplying the percentage movement (1%) by the leverage factor (50x)."
+  },
+  {
+    "question": "What is the cost added to the KLP pool if there is a +1% price movement in the USDT scenario?",
+    "answer": "500 USDT will be added to the KLP pool."
+  },
+  {
+    "question": "How can users execute orders on KTX.Finance?",
+    "answer": "Users can choose to execute 2 different kinds of orders on the trade page."
+  },
+  {
+    "question": "What is one type of order mentioned for KTX.Finance?",
+    "answer": "Market Orders are one type of order available."
+  },
+  {
+    "question": "How does a Market Order function?",
+    "answer": "A market order is an order to long or short an asset."
+  },
+  {
+    "question": "What is the risk associated with the KLP loss scenario?",
+    "answer": "The trader incurs a 50% loss when the exit price is $9,900 (-1% movement)."
+  },
+  {
+    "question": "What is a limit order on KTX.Finance?",
+    "answer": "A limit order is an order to long or short an asset at a pre-determined price."
+  },
+  {
+    "question": "How is the mark price derived?",
+    "answer": "The mark price is derived from an aggregate of exchange prices."
+  },
+  {
+    "question": "What is Open Interest?",
+    "answer": "Open interest is the total size of outstanding perpetual positions for an asset that have not been settled, which is the total size of open trades."
+  },
+  {
+    "question": "Why are traders free of counterparty risk?",
+    "answer": "Traders are free of counterparty risk because all trades are 100% covered and traders will always be paid out in the event of a windfall due to the settlement mechanism of the KLP pool."
+  },
+  {
+    "question": "What results from executing a limit order if the mark price is not reached?",
+    "answer": "The execution of limit orders is not guaranteed, and several conditions may prevent their execution."
+  },
+  {
+    "question": "How can users set take profits or stop losses efficiently?",
+    "answer": "Complex orders allow users to open a position and set take profits / stop losses (limit orders) in one click."
+  },
+  {
+    "question": "What is the limitation on Open Interest?",
+    "answer": "The maximum OI is limited by the protocol's total value."
+  },
+  {
+    "question": "What conditions may prevent the execution of limit orders?",
+    "answer": "Several conditions may prevent their execution."
+  },
+  {
+    "question": "How can users toggle complex orders?",
+    "answer": "Complex orders can be toggled by selecting or keying in desired exit parameters on the trade page."
+  },
+  {
+    "question": "What must be considered regarding execution of an order that exceeds platform limits?",
+    "answer": "Executing the order would result in a position that exceeds the current maximum leverage allowed by the platform."
+  },
+  {
+    "question": "What is the distinction between complex orders and regular limit orders?",
+    "answer": "Complex orders allow users to open a position and set take profits / stop losses (limit orders) in one click."
+  },
+  {
+    "question": "Why are there liquidity concerns regarding limit order execution?",
+    "answer": "Even if the mark price is reached, there may not be sufficient liquidity in the market to execute the order at the desired price."
+  },
+  {
+    "question": "What is a requirement for Complex Orders availability?",
+    "answer": "Complex Orders are not available on BNB Chain."
+  },
+  {
+    "question": "How is an asset priced according to the text?",
+    "answer": "An asset is priced at the market's current best available price."
+  },
+  {
+    "question": "What is the total size of outstanding perpetual positions that have not been settled?",
+    "answer": "Open interest is the total size of outstanding perpetual positions for an asset that have not been settled, i.e., the total size of open trades."
+  },
+  {
+    "question": "What limits the Long Open Interest (OI)?",
+    "answer": "Long OI is limited by the amount of assets staked within the KLP pool."
+  },
+  {
+    "question": "What limits the Short Open Interest (OI)?",
+    "answer": "Short OI is limited by the amount of stablecoins staked within the KLP pool."
+  },
+  {
+    "question": "How is a liquidation process triggered?",
+    "answer": "A liquidation process is triggered if the asset prices move adversely against the user."
+  },
+  {
+    "question": "What happens when a liquidation is triggered?",
+    "answer": "The liquidation contract will automatically close (liquidate) the user's position to prevent further losses."
+  },
+  {
+    "question": "Why do users pay a fee during liquidation?",
+    "answer": "Users pay a Liquidation Fee when a liquidation is triggered."
+  },
+  {
+    "question": "What conditions trigger a liquidation?",
+    "answer": "A liquidation is triggered when PositionCollateral / PositionSize < 0.0067 OR 0.67% or PositionLeverage > 150x."
+  },
+  {
+    "question": "How is PositionLeverage calculated?",
+    "answer": "PositionLeverage is calculated as PositionSize / PositionCollateral."
+  },
+  {
+    "question": "What is the formula for PositionSize?",
+    "answer": "PositionSize = PositionCollateral * PositionLeverage."
+  },
+  {
+    "question": "How are Liquidation Prices calculated for Long positions?",
+    "answer": "Liquidation Price = AvgPrice / ( 1 - 0.0067 + 1/RemainingLeverage)."
+  },
+  {
+    "question": "How are Liquidation Prices calculated for Short positions?",
+    "answer": "Liquidation Price = AvgPrice / ( 1 + 0.0067 - 1/RemainingLeverage)."
+  },
+  {
+    "question": "What causes liquidation prices to change over time?",
+    "answer": "Borrowing fees will cause liquidation prices to change over time."
+  },
+  {
+    "question": "What is the function of Spot Swaps?",
+    "answer": "Traders can use the liquidity to exchange one asset for another within the $KLP pool."
+  },
+  {
+    "question": "How can traders use the KLP liquidity besides margin trading?",
+    "answer": "Traders can also use the liquidity to exchange one asset for another within the $KLP pool."
+  },
+  {
+    "question": "What must users monitor regarding their positions?",
+    "answer": "It is important to monitor your liquidation price."
+  },
+  {
+    "question": "How is PositionCollateral determined?",
+    "answer": "PositionCollateral = Collateral - Losses - Borrowing Fee - Closing."
+  },
+  {
+    "question": "What is the calculation for PositionFee?",
+    "answer": "PositionFee = PositionCollateral * PositionLeverage."
+  }
+]

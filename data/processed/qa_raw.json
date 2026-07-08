@@ -1,0 +1,3458 @@
+[
+  {
+    "question": "What trading opportunities does KTX.Finance offer?",
+    "answer": "KTX.Finance offers leveraged trading opportunities on major trading pairs."
+  },
+  {
+    "question": "What assets can users trade on KTX.Finance?",
+    "answer": "Users can trade assets such as BTC, ETH, BNB, and MNT."
+  },
+  {
+    "question": "How much leverage can users utilize with KTX.Finance?",
+    "answer": "Users have the ability to trade these assets with up to 100x leverage."
+  },
+  {
+    "question": "What is the primary aim of KTX.Finance?",
+    "answer": "The aim of KTX.Finance is democratizing perpetuals trading for the masses."
+  },
+  {
+    "question": "How did KTX.Finance go live?",
+    "answer": "KTX.Finance went live in June 2023."
+  },
+  {
+    "question": "Why was KTX.Finance created?",
+    "answer": "It was hatched in the aftermath of FTX’s collapse in 2022."
+  },
+  {
+    "question": "What kind of protocol is KTX.Finance?",
+    "answer": "KTX.Finance is a decentralized perpetual trading protocol."
+  },
+  {
+    "question": "How does the platform address issues faced by traditional traders?",
+    "answer": "It addresses the need for a decentralized, fast and trustless trading platform due to opaque technological stacks and market makers in traditional markets."
+  },
+  {
+    "question": "What are the key elements KTX.Finance seeks without sacrificing quality?",
+    "answer": "KTX is driven to democratize perpetuals trading for the masses without sacrificing quality, speed and security."
+  },
+  {
+    "question": "What risks does traders face in traditional financial markets according to the text?",
+    "answer": "Traders are at the mercy of opaque technological stacks and market makers, resulting in heightened counterparty risk, increased regulatory requirements, and a single point of failure."
+  },
+  {
+    "question": "How is KTX.Finance decentralized?",
+    "answer": "KTX.Finance is live across multiple blockchain networks including Mantle, BNB Chain and Arbitrum."
+  },
+  {
+    "question": "What entities incubated KTX.Finance?",
+    "answer": "KTX.Finance is incubated by ByteTrade Lab."
+  },
+  {
+    "question": "How much financing did ByteTrade Lab raise?",
+    "answer": "ByteTrade Lab raised 50 million USD Series A financing in June 2022."
+  },
+  {
+    "question": "What blockchain networks does KTX.Finance operate on?",
+    "answer": "KTX.Finance is live across multiple blockchain network including Mantle, BNB Chain and Arbitrum."
+  },
+  {
+    "question": "Who were some of the investors in ByteTrade Lab's Series A round?",
+    "answer": "Investors included Susquehanna International Group (SIG) Asia Venture Capital Fund, INCE Capital, BAI Capital, Sky9 Capital, BlueRun, and PCG."
+  },
+  {
+    "question": "What was the primary aim of KTX.Finance?",
+    "answer": "The aim of KTX.Finance was democratizing perpetuals trading for the masses."
+  },
+  {
+    "question": "What is KLP?",
+    "answer": "KLP is the KTX.Finance Liquidity Pool, which is an integral part of the protocol that enables trade execution and settlement."
+  },
+  {
+    "question": "How does the KLP function within the protocol?",
+    "answer": "The KLP enables trade execution and settlement."
+  },
+  {
+    "question": "What core components make up the Trading Engine?",
+    "answer": "The Trading Engine includes Liquidity Provision, Margin Trading, and Spot Swaps."
+  },
+  {
+    "question": "How did KTX.Finance launch?",
+    "answer": "KTX.Finance went live in June 2023."
+  },
+  {
+    "question": "Why was KTX.Finance hatched?",
+    "answer": "It was hatched in the aftermath of FTX’s collapse in 2022."
+  },
+  {
+    "question": "What funding did KTX.Finance raise?",
+    "answer": "KTX.Finance raised a $4 million USD seed round financing led by Hashed."
+  },
+  {
+    "question": "Who were some of the participants in the seed round?",
+    "answer": "Other participants included AlphaLab Capital, CRIT Ventures, 100&100 Ventures, Trinito Corporation / Morpheus, GSG Asset, KuCoin Ventures and Sky9 Capital."
+  },
+  {
+    "question": "What milestone was achieved in Q4 2023 regarding trading volume?",
+    "answer": "In 4Q2023, the protocol broke USD 1 billion in Cumulative Trading Volume."
+  },
+  {
+    "question": "How did the protocol launch on different networks?",
+    "answer": "It launched on the BNB Chain and later on the Mantle Network and Arbitrum Network."
+  },
+  {
+    "question": "What was a significant feature implemented in Q2 2024?",
+    "answer": "In 2Q2024, the protocol introduced a Gamified Trading Experience."
+  },
+  {
+    "question": "What tools were introduced for the community and users in 2Q2024?",
+    "answer": "The updates included a TradingView Upgrade, Special Community Events, and Telegram Price Alert Bots."
+  },
+  {
+    "question": "What kind of trading activities does the KLP enable?",
+    "answer": "The KLP enables trade execution and settlement."
+  },
+  {
+    "question": "How is liquidity provided in the protocol?",
+    "answer": "Liquidity Provision is one of the functions of the Trading Engine."
+  },
+  {
+    "question": "What are the functional categories of the Trading Engine?",
+    "answer": "The functional categories of the Trading Engine are Liquidity Provision, Margin Trading, and Spot Swaps."
+  },
+  {
+    "question": "What is KLP?",
+    "answer": "KLP is an index consisting of 50% stablecoins and 50% digital assets."
+  },
+  {
+    "question": "How does the allocation of assets in KLP vary?",
+    "answer": "The allocation of assets varies depending on the network on which the protocol is active."
+  },
+  {
+    "question": "What is the role of KLP before describing the trading process?",
+    "answer": "KLP's role is in the protocol before describing the trading process."
+  },
+  {
+    "question": "Why do depositors receive compensation?",
+    "answer": "To compensate depositors, KTX allocates majority of the protocol fees to depositors along with other benefits."
+  },
+  {
+    "question": "How are depositors compensated?",
+    "answer": "KTX allocates majority of the protocol fees to depositors along with other benefits."
+  },
+  {
+    "question": "How do depositors participate in KLP?",
+    "answer": "Depositors provide liquidity and act as a market maker for perpetuals trading / spot swaps on KTX.Finance."
+  },
+  {
+    "question": "What is the function of KLP depositors?",
+    "answer": "Depositors of KLP provide liquidity and act as a market maker for perpetuals trading / spot swaps on KTX.Finance."
+  },
+  {
+    "question": "How are long trades settled on KTX.Finance?",
+    "answer": "Long trades, such as long BTC positions, are physically settled. Trade settlement occurs in the respective trading pair."
+  },
+  {
+    "question": "Where do profits or losses from long positions get realized?",
+    "answer": "Profits or losses from long positions are realized in the underlying asset itself."
+  },
+  {
+    "question": "What is the entry price parameter for a trade?",
+    "answer": "The Entry Price parameter is $10,000."
+  },
+  {
+    "question": "What collateral is required for a specific trade?",
+    "answer": "Collateral is 1 BTC."
+  },
+  {
+    "question": "How much leverage is available in the example parameters?",
+    "answer": "The Leverage parameter is 50x."
+  },
+  {
+    "question": "How much amount is reserved upon execution of a trade?",
+    "answer": "50 BTC will be reserved from KLP upon execution of this trade."
+  },
+  {
+    "question": "What is the profit calculation example based on price movement?",
+    "answer": "If the Exit Price is $10,100 (+1% price movement), the Profit Calculation is 1% * 50x = 50%."
+  },
+  {
+    "question": "What is the benefit realized by a trader in the example scenario?",
+    "answer": "The trader profits 50%, and 0.5 BTC from the Reserved Amount is paid out to the trader."
+  },
+  {
+    "question": "What happens to the KLP pool when a trade results in a 50% loss?",
+    "answer": "0.5 BTC will be added to the KLP pool."
+  },
+  {
+    "question": "How is settlement handled for short trades on KTX.Finance?",
+    "answer": "Short trades on KTX.Finance are cash settled, implying that the settlement for short positions is in USDT."
+  },
+  {
+    "question": "What calculation determines the loss incurred by a trader based on a 1% price movement and 50x leverage?",
+    "answer": "-1% * 50x = -50%."
+  },
+  {
+    "question": "How is profit calculated for a trade involving a 1% price movement and 50x leverage?",
+    "answer": "1% * 50x = 50%."
+  },
+  {
+    "question": "What are the parameters provided for executing a trade?",
+    "answer": "The parameters include an Entry Price of $10,000, Collateral of 1,000 USDT, Leverage of 50x, and a Reserved Amount of 50,000 USDT."
+  },
+  {
+    "question": "How much USDT is reserved from KLP upon the execution of a trade?",
+    "answer": "50,000 USDT will be reserved from KLP upon the execution of this trade."
+  },
+  {
+    "question": "What potential outcome occurs if the Exit Price is $9,900 (-1% price movement)?",
+    "answer": "The trader profits 50%, and 500 USDT from the Reserved Amount is paid out to the trader."
+  },
+  {
+    "question": "How much is added to the KLP pool when a trader incurs a 50% loss?",
+    "answer": "0.5 BTC will be added to the KLP pool."
+  },
+  {
+    "question": "What are the primary risks faced by LPs within the KLP pool?",
+    "answer": "LPs within the KLP pool are exposed to price movements in the underlying assets due to the pool's design."
+  },
+  {
+    "question": "Why are LPs sensitive to fluctuations in asset prices?",
+    "answer": "The value of LPs' holdings are sensitive to fluctuations in the prices of the pool's assets, reflecting the inherent volatility in the cryptocurrency market."
+  },
+  {
+    "question": "How can LPs mitigate their exposure to asset price changes?",
+    "answer": "LPs can short the relevant assets in their respective weightages within the pool. Creating a delta-neutral environment."
+  },
+  {
+    "question": "What inherent exposure do LPs possess by depositing into KLP?",
+    "answer": "LPs inherently possess long exposure to the assets within the KLP pool by depositing into it."
+  },
+  {
+    "question": "Why might a decline in underlying asset prices impact LPs' holdings?",
+    "answer": "A decline in the prices of the underlying assets may result in a negative impact on LPs' holdings."
+  },
+  {
+    "question": "What is the mechanism used to manage exposure to asset price changes?",
+    "answer": "LPs can short the relevant assets in their respective weightages within the pool."
+  },
+  {
+    "question": "How does the design of the KLP pool affect LPs' holdings?",
+    "answer": "LPs within the KLP pool are exposed to price movements in the underlying assets due to the pool's design."
+  },
+  {
+    "question": "What is the function of ironment?",
+    "answer": "ironment helps LPs balance their portfolio, offsetting the impact of price fluctuations in the underlying assets."
+  },
+  {
+    "question": "Why is KTX working with institutional trading houses and protocols?",
+    "answer": "KTX is working with several institutional trading houses and protocols to provide LPs with strategies to achieve market neutral returns."
+  },
+  {
+    "question": "What role does KLP assume?",
+    "answer": "KLP assumes the role of the counterparty to trades on KTX."
+  },
+  {
+    "question": "How is the pool's performance linked to trading activity?",
+    "answer": "the pool's performance is inversely linked to the success of trading activity."
+  },
+  {
+    "question": "What approach can LPs adopt to position themselves against adverse movements?",
+    "answer": "LPs can adopt a strategy that mirrors traders' trades."
+  },
+  {
+    "question": "How does mirroring traders' trades benefit LPs?",
+    "answer": "By doing so, LPs position themselves to profit in a similar manner to traders."
+  },
+  {
+    "question": "What is the result of this hedging approach for LPs?",
+    "answer": "This approach effectively hedges LPs against adverse Trader PnL movements."
+  },
+  {
+    "question": "What characteristic does the risk management strategy create for LPs?",
+    "answer": "The risk management strategy creates a payment structure for LPs characterized by low risk and high return potential."
+  },
+  {
+    "question": "What is the relationship between LPs' objectives and managing exposure?",
+    "answer": "This aligns with LPs' objectives to optimize returns while managing exposure to market dynamics."
+  },
+  {
+    "question": "What phenomena might occur in strongly trending markets?",
+    "answer": "there may be a notable Open Interest (OI) skew where traders might unilaterally enter either long or short positions."
+  },
+  {
+    "question": "What is an example of a strong trend mentioned in the text?",
+    "answer": "a bull market where most traders prefer long positions."
+  },
+  {
+    "question": "How can LPs position themselves to profit similarly to traders?",
+    "answer": "LPs can adopt a strategy that mirrors traders' trades."
+  },
+  {
+    "question": "What specific assets can traders trade on KTX.Finance?",
+    "answer": "traders can trade assets such as BTC, ETH, BNB, and MNT."
+  },
+  {
+    "question": "How much leverage is provided by KTX.Finance for trading opportunities?",
+    "answer": "KTX.Finance provides the ability to trade assets with up to 100x leverage."
+  },
+  {
+    "question": "What are the benefits of the risk management strategy for LPs?",
+    "answer": "The risk management strategy creates a payment structure characterized by low risk and high return potential."
+  },
+  {
+    "question": "What parameters must a trader be familiar with before opening a position?",
+    "answer": "The parameters are Collateral Management, Leverage, Trading Pairs, Types of Orders, Trading Settlement, Open Interest Limitations, Liquidations, and Collateral Management."
+  },
+  {
+    "question": "What is the collateral management system tied to on KTX.Finance?",
+    "answer": "The collateral management system on KTX.Finance is tied to the direction of the trader's positions."
+  },
+  {
+    "question": "How is collateral for long trades denominated?",
+    "answer": "For long trades, collateral is denominated in the respective trading pair's native currency."
+  },
+  {
+    "question": "What is an example of collateral denomination for long ETH / USDT trades?",
+    "answer": "Collateral for long ETH / USDT trades is denominated in ETH."
+  },
+  {
+    "question": "How does a user open a long trade even without possessing the specific assets?",
+    "answer": "A swap router is employed to automatically convert the user's holdings into the required asset before initiating the trade."
+  },
+  {
+    "question": "What is the collateral denomination for all short trades?",
+    "answer": "Collateral for all short trades are denominated in stablecoins irrespective of trading pair."
+  },
+  {
+    "question": "How are short position collaterals settled?",
+    "answer": "Collateral for short positions are all denominated in stablecoins and settled in USDT."
+  },
+  {
+    "question": "What is leverage?",
+    "answer": "Leverage is the use of borrowed capital to create larger positions in a certain trading pair."
+  },
+  {
+    "question": "How is leverage enabled on KTX.Finance?",
+    "answer": "Leverage is enabled by lending out assets in the KLP pool."
+  },
+  {
+    "question": "Why do traders have to pay a Borrowing Fee when conducting margin trades?",
+    "answer": "Traders have to pay a Borrowing Fee when conducting margin trades because leverage is enabled by lending out assets in the KLP pool."
+  },
+  {
+    "question": "What is the maximum leverage allowed on KTX.Finance?",
+    "answer": "The maximum leverage allowed on KTX.Finance is 100x."
+  },
+  {
+    "question": "How much collateral is required for a $10,000 position using 10x leverage?",
+    "answer": "Traders trading with 10x leverage are able to open a position of $10,000 with only $1,000 in collateral."
+  },
+  {
+    "question": "What is an example of how the swap router works for opening a long ETH trade?",
+    "answer": "The swap router automatically converts the user's USDT holdings into the required asset (ETH) before initiating the trade."
+  },
+  {
+    "question": "How many examples of parameters are listed before opening a position?",
+    "answer": "There are several parameters listed, including Collateral Management, Leverage, Trading Pairs, Types of Orders, Trading Settlement, Open Interest Limitations, and Liquidations."
+  },
+  {
+    "question": "What is the relationship between collateral management and the direction of positions?",
+    "answer": "The collateral management system is tied to the direction of the trader's positions."
+  },
+  {
+    "question": "What are some parameters you must be familiar with before opening a position?",
+    "answer": "Parameters include Collateral Management, Leverage, Trading Pairs, Types of Orders, Trading Settlement, Open Interest Limitations, Liquidations, and Collateral Management."
+  },
+  {
+    "question": "What is the formula for Leverage?",
+    "answer": "Leverage = PositionSize / PositionCollateral"
+  },
+  {
+    "question": "How does the position collateral get affected?",
+    "answer": "The position collateral will be affected by both asset price movements and borrowing fees."
+  },
+  {
+    "question": "What happens if there are adverse price movements?",
+    "answer": "If there are adverse price movements, the traders leverage on the position will increase beyond the initially used leverage."
+  },
+  {
+    "question": "What is a potential result of adverse price movements?",
+    "answer": "This could potentially result in a liquidation."
+  },
+  {
+    "question": "How are long trades defined?",
+    "answer": "Long Trades speculate on asset prices increasing through your trading time frame."
+  },
+  {
+    "question": "What are the two directions traders can open trades in on KTX.Finance?",
+    "answer": "Traders can open trades in two directions: Long Trades and Short Trades."
+  },
+  {
+    "question": "How are long trades settled on KTX.Finance?",
+    "answer": "Long trades, such as long BTC positions, are physically settled, meaning the settlement occurs in the respective asset, for example, BTC."
+  },
+  {
+    "question": "What is the composition of the KLP pool on the Mantle network?",
+    "answer": "On the Mantle network, the KLP pool comprises 50% USDT and 50% BTC/ETH/MNT."
+  },
+  {
+    "question": "How is KLP allocated on the BNB Chain?",
+    "answer": "Conversely, on BNB Chain, the KLP allocation is 50% USDT and 50% BTC/ETH/BNB."
+  },
+  {
+    "question": "Why are the trading pairs different on different networks?",
+    "answer": "Trading pairs on KTX.Finance vary depending on the network on which the protocol is active."
+  },
+  {
+    "question": "What trading pairs are supported on the Mantle Network?",
+    "answer": "The trading pairs on the Mantle Network include BTC / USDT, ETH / USDT, and MNT / USDT."
+  },
+  {
+    "question": "How many specific trading pairs are listed for the BNB Chain?",
+    "answer": "The trading pairs supported on BNB Chain include BTC / USDT, ETH / USDT, and BNB / USDT."
+  },
+  {
+    "question": "What trading pairs are available on the Arbitrum network?",
+    "answer": "The available trading pairs on Arbitrum include BTC / USDT, ETH / USDT, ARB / USDT, SOL / USDT, and LINK / USDT."
+  },
+  {
+    "question": "How does KLP leverage relate to price movements?",
+    "answer": "The position collateral will be affected by both asset price movements and borrowing fees."
+  },
+  {
+    "question": "What is an example of a trading pair on the Mantle Network?",
+    "answer": "Examples of trading pairs on the Mantle Network include BTC / USDT, ETH / USDT, and MNT / USDT."
+  },
+  {
+    "question": "What is the initial entry price for the KLP trade scenario?",
+    "answer": "The entry price is $10,000."
+  },
+  {
+    "question": "How is profit calculated in the first scenario (Exit Price $10,100)?",
+    "answer": "Profit is calculated as 1% multiplied by 50x leverage, resulting in a 50% profit."
+  },
+  {
+    "question": "What happens to the Reserved Amount upon incurring a loss in the KLP scenario?",
+    "answer": "If there is a loss, 0.5 BTC will be added to the KLP pool."
+  },
+  {
+    "question": "How are short trades on KTX.Finance settled?",
+    "answer": "Short trades on KTX.Finance are cash settled, implying settlement is in USDT."
+  },
+  {
+    "question": "What is the collateral used for the initial KLP trade example?",
+    "answer": "The collateral is 1 BTC."
+  },
+  {
+    "question": "How much is paid out to the trader if they achieve a profit of 50% in the first scenario?",
+    "answer": "0.5 BTC from the Reserved Amount is paid out to the trader."
+  },
+  {
+    "question": "What is the risk calculation for a -1% price movement in KLP?",
+    "answer": "A -1% price movement results in a -50% loss (calculated as -1% * 50x)."
+  },
+  {
+    "question": "What happens to the Reserved Amount if there is a +1% price movement (profit) in KLP?",
+    "answer": "In a profit scenario, the trader profits 50%, and 0.5 BTC from the Reserved Amount is paid out to the trader."
+  },
+  {
+    "question": "What are the parameters for the USDT trade scenario?",
+    "answer": "The parameters include an Entry Price of $10,000, Collateral of 1,000 USDT, Leverage of 50x, and a Reserved Amount of 50,000 USDT."
+  },
+  {
+    "question": "Why is the calculation based on a 50x leverage?",
+    "answer": "The profit or loss calculation involves multiplying the percentage movement (1%) by the leverage factor (50x)."
+  },
+  {
+    "question": "What is the cost added to the KLP pool if there is a +1% price movement in the USDT scenario?",
+    "answer": "500 USDT will be added to the KLP pool."
+  },
+  {
+    "question": "How can users execute orders on KTX.Finance?",
+    "answer": "Users can choose to execute 2 different kinds of orders on the trade page."
+  },
+  {
+    "question": "What is one type of order mentioned for KTX.Finance?",
+    "answer": "Market Orders are one type of order available."
+  },
+  {
+    "question": "How does a Market Order function?",
+    "answer": "A market order is an order to long or short an asset."
+  },
+  {
+    "question": "What is the risk associated with the KLP loss scenario?",
+    "answer": "The trader incurs a 50% loss when the exit price is $9,900 (-1% movement)."
+  },
+  {
+    "question": "What is a limit order on KTX.Finance?",
+    "answer": "A limit order is an order to long or short an asset at a pre-determined price."
+  },
+  {
+    "question": "How is the mark price derived?",
+    "answer": "The mark price is derived from an aggregate of exchange prices."
+  },
+  {
+    "question": "What is Open Interest?",
+    "answer": "Open interest is the total size of outstanding perpetual positions for an asset that have not been settled, which is the total size of open trades."
+  },
+  {
+    "question": "Why are traders free of counterparty risk?",
+    "answer": "Traders are free of counterparty risk because all trades are 100% covered and traders will always be paid out in the event of a windfall due to the settlement mechanism of the KLP pool."
+  },
+  {
+    "question": "What results from executing a limit order if the mark price is not reached?",
+    "answer": "The execution of limit orders is not guaranteed, and several conditions may prevent their execution."
+  },
+  {
+    "question": "How can users set take profits or stop losses efficiently?",
+    "answer": "Complex orders allow users to open a position and set take profits / stop losses (limit orders) in one click."
+  },
+  {
+    "question": "What is the limitation on Open Interest?",
+    "answer": "The maximum OI is limited by the protocol's total value."
+  },
+  {
+    "question": "What conditions may prevent the execution of limit orders?",
+    "answer": "Several conditions may prevent their execution."
+  },
+  {
+    "question": "How can users toggle complex orders?",
+    "answer": "Complex orders can be toggled by selecting or keying in desired exit parameters on the trade page."
+  },
+  {
+    "question": "What must be considered regarding execution of an order that exceeds platform limits?",
+    "answer": "Executing the order would result in a position that exceeds the current maximum leverage allowed by the platform."
+  },
+  {
+    "question": "What is the distinction between complex orders and regular limit orders?",
+    "answer": "Complex orders allow users to open a position and set take profits / stop losses (limit orders) in one click."
+  },
+  {
+    "question": "Why are there liquidity concerns regarding limit order execution?",
+    "answer": "Even if the mark price is reached, there may not be sufficient liquidity in the market to execute the order at the desired price."
+  },
+  {
+    "question": "What is a requirement for Complex Orders availability?",
+    "answer": "Complex Orders are not available on BNB Chain."
+  },
+  {
+    "question": "How is an asset priced according to the text?",
+    "answer": "An asset is priced at the market's current best available price."
+  },
+  {
+    "question": "What is the total size of outstanding perpetual positions that have not been settled?",
+    "answer": "Open interest is the total size of outstanding perpetual positions for an asset that have not been settled, i.e., the total size of open trades."
+  },
+  {
+    "question": "What limits the Long Open Interest (OI)?",
+    "answer": "Long OI is limited by the amount of assets staked within the KLP pool."
+  },
+  {
+    "question": "What limits the Short Open Interest (OI)?",
+    "answer": "Short OI is limited by the amount of stablecoins staked within the KLP pool."
+  },
+  {
+    "question": "How is a liquidation process triggered?",
+    "answer": "A liquidation process is triggered if the asset prices move adversely against the user."
+  },
+  {
+    "question": "What happens when a liquidation is triggered?",
+    "answer": "The liquidation contract will automatically close (liquidate) the user's position to prevent further losses."
+  },
+  {
+    "question": "Why do users pay a fee during liquidation?",
+    "answer": "Users pay a Liquidation Fee when a liquidation is triggered."
+  },
+  {
+    "question": "What conditions trigger a liquidation?",
+    "answer": "A liquidation is triggered when PositionCollateral / PositionSize < 0.0067 OR 0.67% or PositionLeverage > 150x."
+  },
+  {
+    "question": "How is PositionLeverage calculated?",
+    "answer": "PositionLeverage is calculated as PositionSize / PositionCollateral."
+  },
+  {
+    "question": "What is the formula for PositionSize?",
+    "answer": "PositionSize = PositionCollateral * PositionLeverage."
+  },
+  {
+    "question": "How are Liquidation Prices calculated for Long positions?",
+    "answer": "Liquidation Price = AvgPrice / ( 1 - 0.0067 + 1/RemainingLeverage)."
+  },
+  {
+    "question": "How are Liquidation Prices calculated for Short positions?",
+    "answer": "Liquidation Price = AvgPrice / ( 1 + 0.0067 - 1/RemainingLeverage)."
+  },
+  {
+    "question": "What causes liquidation prices to change over time?",
+    "answer": "Borrowing fees will cause liquidation prices to change over time."
+  },
+  {
+    "question": "What is the function of Spot Swaps?",
+    "answer": "Traders can use the liquidity to exchange one asset for another within the $KLP pool."
+  },
+  {
+    "question": "How can traders use the KLP liquidity besides margin trading?",
+    "answer": "Traders can also use the liquidity to exchange one asset for another within the $KLP pool."
+  },
+  {
+    "question": "What must users monitor regarding their positions?",
+    "answer": "It is important to monitor your liquidation price."
+  },
+  {
+    "question": "How is PositionCollateral determined?",
+    "answer": "PositionCollateral = Collateral - Losses - Borrowing Fee - Closing."
+  },
+  {
+    "question": "What is the calculation for PositionFee?",
+    "answer": "PositionFee = PositionCollateral * PositionLeverage."
+  },
+  {
+    "question": "What is the feature of KTX.Finance?",
+    "answer": "The feature of KTX.Finance is the ability for traders to conduct spot swaps without experiencing slippage."
+  },
+  {
+    "question": "How does KLP differ from other Automated Market Makers (AMMs)?",
+    "answer": "Unlike conventional AMMs, the weightages of assets in the KLP do not influence or determine the assets' prices."
+  },
+  {
+    "question": "How are users charged a Swap Fee when swapping on KTX.Finance?",
+    "answer": "Users pay a Swap Fee ranging between 0.20% and 0.80%, which depends on how asset balances change after the swap."
+  },
+  {
+    "question": "What are the components included in Protocol Fees?",
+    "answer": "Protocol fees include Margin Trading Fees, Swap Fees, and KLP Minting & Burning Fees."
+  },
+  {
+    "question": "How are Position Fees calculated?",
+    "answer": "Position fees follow a linear function ranging between 0.02% and 0.10%."
+  },
+  {
+    "question": "What is the calculation method for Utilization?",
+    "answer": "Utilization is calculated as Asset Open Interest / Asset AUM."
+  },
+  {
+    "question": "Why are Position fees implemented?",
+    "answer": "Position fees are designed to encourage traders to think of more trade ideas whenever possible."
+  },
+  {
+    "question": "What example shows the effect of swapping USDT for ETH when ETH is overweighted?",
+    "answer": "If users swap USDT for ETH while Overweight ETH and Underweight USDT, the ETH Balance Increases, resulting in a Higher Swap Fee."
+  },
+  {
+    "question": "How can traders reduce their Position Fees?",
+    "answer": "Traders can trade assets with lower utilization for lower fees."
+  },
+  {
+    "question": "What is a risk associated with trading involving liquidation events?",
+    "answer": "When a liquidation event occurs, a liquidation fee is charged."
+  },
+  {
+    "question": "How are Position Fees viewed by traders?",
+    "answer": "Traders can view Position Fees in two venues: Bottom Right of Trade Page and Order Confirmation Panel."
+  },
+  {
+    "question": "What are the different fees that constitute Margin Trading Fees?",
+    "answer": "Margin trading fees typically consist of Position Fees (Opening / Closing), Borrowing Fees, and a liquidation fee when a liquidation event occurs."
+  },
+  {
+    "question": "How does the Swap Fee depend on asset balances during a swap?",
+    "answer": "The Swap Fee paid depends on how asset balances change after the swap."
+  },
+  {
+    "question": "What is KLP?",
+    "answer": "KLP is referenced as a feature of KTX.Finance, relating to spot swaps without experiencing slippage."
+  },
+  {
+    "question": "What is the formula for the Hourly Borrowing Fee?",
+    "answer": "Hourly Borrowing Fee (%) = (Borrowed Amount of Individual Asset / Total Amount of individual asset in KLP Pool) * 0.005%"
+  },
+  {
+    "question": "How can Live Borrowing Fees be viewed?",
+    "answer": "Live Borrowing Fees can be viewed from the Bottom Right of the Trade Page and the KTX Stats Page."
+  },
+  {
+    "question": "What is the Liquidation Fee?",
+    "answer": "The Liquidation Fee is 2 USDT."
+  },
+  {
+    "question": "Why is a liquidation process triggered?",
+    "answer": "A liquidation process is triggered if the asset prices move adversely against the user."
+  },
+  {
+    "question": "How are fees and remaining collateral handled during liquidation?",
+    "answer": "If the user's current collateral, minus the closing fees and liquidation fees, results in a value less than zero, the user will not be returned any collateral. Conversely, if it remains greater than zero, the user will be returned the surplus collateral."
+  },
+  {
+    "question": "What range do Swap fees cover?",
+    "answer": "Swap fees range from 0.20% to 0.80% depending on the trade size."
+  },
+  {
+    "question": "How does the Swap fee calculation depend?",
+    "answer": "The fee paid depends on how asset balances change after the swap."
+  },
+  {
+    "question": "Where can the KLP Borrowing Rate Annualized be found?",
+    "answer": "The KLP Borrowing Rate Annualized can be found in the KTX Trade Page Position Tab."
+  },
+  {
+    "question": "What is the effect of swapping USDT for ETH on the ETH balance?",
+    "answer": "If you swap USDT for ETH, the ETH Balance Increases by Higher."
+  },
+  {
+    "question": "How does a swap affect the USDT balance when swapping ETH for USDT?",
+    "answer": "When swapping ETH for USDT, the USDT Balance increases by USDT Bala."
+  },
+  {
+    "question": "What is the minimum Swap fee percentage?",
+    "answer": "The minimum Swap fee range is 0.20%."
+  },
+  {
+    "question": "How does the system protect users from further losses?",
+    "answer": "A liquidation contract will automatically close (liquidate) the user's position to prevent further losses."
+  },
+  {
+    "question": "What risks are involved in the collateral handling process?",
+    "answer": "The risk involves potentially not being returned any collateral if deductions lead to a negative balance, or losing the surplus collateral if the mechanism is not followed correctly."
+  },
+  {
+    "question": "How does the hourly fee relate to the KLP pool?",
+    "answer": "The fee is paid to the KLP pool at the start of every hour over the trader’s holding period."
+  },
+  {
+    "question": "What are the KLP Minting & Burning Fees?",
+    "answer": "KLP Minting & Burning Fees range from 0.0% to 0.85%."
+  },
+  {
+    "question": "How are depositors charged when interacting with the KLP pool?",
+    "answer": "Depositors pay a fee when depositing / withdrawing from the KLP pool."
+  },
+  {
+    "question": "What factors influence the dynamic fee structure for minting KLP tokens?",
+    "answer": "The dynamic fee structure is influenced by the supply and demand dynamics within the KLP pool."
+  },
+  {
+    "question": "Why is the dynamic fee structure designed?",
+    "answer": "The dynamic fee structure is strategically designed to incentivize users to maintain a balanced pool."
+  },
+  {
+    "question": "How do lower fees affect KLP pool actions?",
+    "answer": "Lower fees for actions that enhance asset balance encourage users to contribute positively to the pool's equilibrium."
+  },
+  {
+    "question": "What is the effect of minting KLP with overweight $ETH?",
+    "answer": "Overweight $ETH mint KLP with ETH increases [the amount]."
+  },
+  {
+    "question": "How does burning KLP relate to asset balance?",
+    "answer": "The inverse relationship is true for the burning of KLP."
+  },
+  {
+    "question": "What can users save on by depositing into KLP?",
+    "answer": "Users can save on fees by depositing into KLP with underweighted assets."
+  },
+  {
+    "question": "What are the three main groups of participants in the protocol?",
+    "answer": "The 3 main groups of participants are Traders, Liquidity Providers, and KTC Stakers."
+  },
+  {
+    "question": "How do Traders contribute to the protocol revenue structure?",
+    "answer": "Traders contribute Trading Volume & Fees."
+  },
+  {
+    "question": "What is the role of Liquidity Providers in the protocol?",
+    "answer": "Liquidity Providers fulfill trades by providing liquidity."
+  },
+  {
+    "question": "What does KTX.Finance operate on regarding token structure?",
+    "answer": "KTX.Finance operates on a dual-token model."
+  },
+  {
+    "question": "What is the maximum supply of the KTC token?",
+    "answer": "The Token Max. Supply for KTC is 100 mn."
+  },
+  {
+    "question": "What percentage of the protocol does the Governance & Utility Token represent?",
+    "answer": "The Governance & Utility Token represents 30% of the protocol."
+  },
+  {
+    "question": "How can users view the live composite of the KLP Pool?",
+    "answer": "You can view live composite of the KLP Pool here: https://app.ktx.finance/earn?type=klp"
+  },
+  {
+    "question": "What is KLP?",
+    "answer": "KLP is a liquidity receipt for depositors in the KLP Pool."
+  },
+  {
+    "question": "How are protocol trading fees distributed to KLP depositors?",
+    "answer": "Depositors receive 70% of protocol trading fees paid out in BNB and ETH on BNB Chain and Mantle respectively."
+  },
+  {
+    "question": "What does KTC stand for?",
+    "answer": "KTC stands for KTX.Finance Community Tokens."
+  },
+  {
+    "question": "What role does KTC serve?",
+    "answer": "KTC serves as the governance and utility token for the protocol."
+  },
+  {
+    "question": "How much of protocol trading fees are paid out to KTC stakers?",
+    "answer": "KTC stakers are eligible for 30% of protocol trading fees paid out in BNB and ETH on BNB Chain and Mantle respectively."
+  },
+  {
+    "question": "What is the token distribution percentage for esKTC Rewards?",
+    "answer": "esKTC Rewards distribution includes 30% (30,000,000) and 40% (40,000,000)."
+  },
+  {
+    "question": "What are the network markets where KTC are trading?",
+    "answer": "KTC are trading on Arbitrum, Uniswap, Mantle, FusionX, Merchant Moe, BNB Chain, and PancakeSwap."
+  },
+  {
+    "question": "What is the contract address for Arbitrum?",
+    "answer": "The contract address for Arbitrum is 0x487f6baB6DEC7815dcd7Dfa2C44a8a17bd3dEd27."
+  },
+  {
+    "question": "What is the contract address for the Mantle Network?",
+    "answer": "The contract address for the Mantle Network is 0x779f4E5fB773E17Bc8E809F4ef1aBb140861159a."
+  },
+  {
+    "question": "How are trading fees paid out on BNB Chain and Mantle?",
+    "answer": "Trading fees are paid out in BNB and ETH on BNB Chain and Mantle respectively."
+  },
+  {
+    "question": "What is the distribution percentage for the Team incentives?",
+    "answer": "The Team incentive distribution is 20% (20,000,000)."
+  },
+  {
+    "question": "How much of protocol trading fees does KLP receive?",
+    "answer": "KLP receives 70% of protocol trading fees paid out in BNB and ETH on BNB Chain and Mantle respectively."
+  },
+  {
+    "question": "What is the composition of the KLP index?",
+    "answer": "KLP is an index consisting of 50% stablecoins (USDT) and 5[text cuts off]."
+  },
+  {
+    "question": "How can users purchase KTC?",
+    "answer": "KTC are trading on https://app.ktx.finance/buy_ktc."
+  },
+  {
+    "question": "What is the purpose of Multiplier Points?",
+    "answer": "Multiplier Points are associated with esKTC Rewards."
+  },
+  {
+    "question": "What assets are tracked when discussing digital assets in the context of KLP?",
+    "answer": "0% digital assets (BTC/ETH/BNB/MNT)."
+  },
+  {
+    "question": "How does KLP function regarding asset allocation?",
+    "answer": "The allocation of assets varies depending on the network on which the protocol is active."
+  },
+  {
+    "question": "What role does KLP play similar to an index fund?",
+    "answer": "KLP also functions like an open-ended index fund tracking its composite assets."
+  },
+  {
+    "question": "How are KLP tokens obtained by depositors?",
+    "answer": "Depositors are free to mint KLP tokens to participate in liquidity at anytime."
+  },
+  {
+    "question": "How are protocol trading fees distributed to depositors?",
+    "answer": "Depositors receive 70% of protocol trading fees paid out in BNB and ETH on BNB Chain and Mantle/Arbitrum respectively."
+  },
+  {
+    "question": "How is the KLP Price calculated?",
+    "answer": "KLP Price is calculated as Total Value of Assets / Total Supply of KLP, making it a function of asset price fluctuation and Trader Profit & Losses."
+  },
+  {
+    "question": "What tokens share similarities with KTC tokens?",
+    "answer": "esKTC tokens share similarities with KTC tokens."
+  },
+  {
+    "question": "How are esKTC tokens related to the KTX.Finance ecosystem?",
+    "answer": "esKTC tokens represent the utility within the KTX.Finance(http://ktx.finance/) ecosystem."
+  },
+  {
+    "question": "What is the key distinction between esKTC tokens and KTC tokens?",
+    "answer": "The key distinction lies in the conversion process."
+  },
+  {
+    "question": "How does the conversion of esKTC to KTC tokens occur?",
+    "answer": "The conversion of esKTC to KTC tokens occurs linearly over a one-year period."
+  },
+  {
+    "question": "Why is the linear unlocking mechanism implemented for esKTC conversion?",
+    "answer": "The linear unlocking mechanism is implemented to ensure a"
+  },
+  {
+    "question": "How can users save on fees when depositing into KLP?",
+    "answer": "Users can save on fees by depositing into KLP with underweighted assets."
+  },
+  {
+    "question": "Where can new depositors deposit into KLP?",
+    "answer": "New depositors can deposit into KLP here: https://app.ktx.finance/earn?type=klp"
+  },
+  {
+    "question": "How do depositors participate in liquidity using KLP tokens?",
+    "answer": "Depositors are free to mint KLP tokens to participate in liquidity at anytime."
+  },
+  {
+    "question": "What is the mechanism that links KLP price to market factors?",
+    "answer": "The KLP Price is a function of asset price fluctuation and Trader Profit & Losses."
+  },
+  {
+    "question": "What is esKTC?",
+    "answer": "esKTC accounts for 30% of KTC total supply."
+  },
+  {
+    "question": "How does staking esKTC benefit users?",
+    "answer": "Staking esKTC enables users to earn the same rewards as those staking KTC tokens."
+  },
+  {
+    "question": "Why is staking esKTC desirable?",
+    "answer": "Staking esKTC allows users to compound their rewards over time, creating a dynamic and potentially lucrative incentive for participants."
+  },
+  {
+    "question": "How is esKTC vested?",
+    "answer": "esKTC is vested every second linearly over a period of one year to actual KTC tokens."
+  },
+  {
+    "question": "What must be staked to vest esKTC into KTC tokens?",
+    "answer": "The paired tokens that were used to earn the esKTC rewards need to be staked with the esKTC."
+  },
+  {
+    "question": "How can participants claim converted KTC tokens?",
+    "answer": "Participants have the ability to claim the portion of esKTC tokens that has been converted into KTC tokens at any point during the vesting period."
+  },
+  {
+    "question": "What is one use case for esKTC?",
+    "answer": "Users can use their esKTC on the Staking Rewards page (https://app.ktx.finance/earn?type=ktc)."
+  },
+  {
+    "question": "How does the conversion process work, according to the example?",
+    "answer": "In the example, if a user owns 100 $KTC and earns 10 $esKTC over one month, 100 $KTC tokens need to be staked with the 10 $esKTC to convert them into $KTC tokens."
+  },
+  {
+    "question": "What is a key limitation regarding unstaking or selling esKTC?",
+    "answer": "esKTC tokens and their paired tokens reserved for vesting cannot be unstaked or sold until the vesting period concludes."
+  },
+  {
+    "question": "How does claiming converted KTC affect user flexibility?",
+    "answer": "This feature provides liquidity and flexibility for users."
+  },
+  {
+    "question": "What is one risk associated with staking esKTC conversion?",
+    "answer": "The actual ratio of conversion depends on the average staked amount and rewards earned for your account."
+  },
+  {
+    "question": "How are objectives aligned in KTC distribution?",
+    "answer": "KTC tokens are distributed through a controlled and measured distribution, aligning objectives and governance considerations."
+  },
+  {
+    "question": "What is the purpose of the Vesting process?",
+    "answer": "Vesting is the process where esKTC is gradually converted into actual KTC tokens over one year."
+  },
+  {
+    "question": "Why are paired tokens required for vesting?",
+    "answer": "Paired tokens are required to be staked with the esKTC to successfully vest it into KTC tokens."
+  },
+  {
+    "question": "What is the overall benefit of the staking mechanism for participants?",
+    "answer": "It provides a dynamic and potentially lucrative incentive by allowing users to compound their rewards over time."
+  },
+  {
+    "question": "What happens when the vesting period concludes?",
+    "answer": "The restrictions on unstaking or selling esKTC tokens and their paired tokens are lifted."
+  },
+  {
+    "question": "What action does using the \"Withdraw\" button on the Earn page initiate?",
+    "answer": "This action will withdraw all tokens and pause the vesting conversion."
+  },
+  {
+    "question": "Why are Multiplier Points introduced?",
+    "answer": "They serve as a unique reward mechanism on KTX.Finance, tailored to provide long-term holders with benefits without contributing to inflation."
+  },
+  {
+    "question": "How are Multiplier Points received when staking KTC tokens?",
+    "answer": "Users receive Multiplier Points every second at a fixed Annual Percentage Rate (APR) of 50%."
+  },
+  {
+    "question": "What is the fixed Annual Percentage Rate (APR) for staking KTC tokens?",
+    "answer": "The fixed APR is 50%."
+  },
+  {
+    "question": "How does the withdrawal process affect the Vesting Vault?",
+    "answer": "The withdrawal process removes all tokens from the Vesting Vault."
+  },
+  {
+    "question": "Are partial withdrawals supported?",
+    "answer": "Partial withdrawals are not supported."
+  },
+  {
+    "question": "What is the definition of Multiplier Points?",
+    "answer": "Multiplier Points serve as a unique reward mechanism on KTX.Finance."
+  },
+  {
+    "question": "How are Emissions Reward rates handled?",
+    "answer": "Emissions Reward rates will be evaluated each month and may be subjected to changes."
+  },
+  {
+    "question": "What is the purpose of the equivalency between Multiplier Points and regular KTC tokens?",
+    "answer": "This equivalency ensures that long-term holders utilizing Multiplier Points can earn a proportionate share of fee rewards over time."
+  },
+  {
+    "question": "What does the Boost Percentage represent on the Earn page?",
+    "answer": "The Boost Percentage represents the extra reward amount you will receive due to the Multiplier Points you have earned from staking KTC and esKTC."
+  },
+  {
+    "question": "How is the Boost Percentage calculated?",
+    "answer": "Boost Percentage = 100 * (Multiplier Points) / (Staked $KTC + Staked $esKTC)."
+  },
+  {
+    "question": "What must users plan when utilizing the withdrawal process?",
+    "answer": "Users should plan their withdrawals accordingly."
+  },
+  {
+    "question": "What is an example of Multiplier Point accumulation over one year?",
+    "answer": "If a user stakes 1000 KTC tokens for one year, they would receive 500 Multiplier Points at the fixed APR of 50%."
+  },
+  {
+    "question": "Why is it important to plan withdrawals according to the process?",
+    "answer": "It is necessary because the withdrawal process removes all tokens from the Vesting Vault."
+  },
+  {
+    "question": "What is the purpose of staking Multiplier Points?",
+    "answer": "Multiplier Points are automatically staked to earn fee rewards, offering users an additional avenue for increasing their returns."
+  },
+  {
+    "question": "How does one facilitate the staking process for Multiplier Points?",
+    "answer": "The \"Compound\" button on the Earn page facilitates this staking process."
+  },
+  {
+    "question": "What is the relationship between ETH/BNB rewards and Multiplier Point rewards?",
+    "answer": "ETH/BNB rewards are earned from staking KTC and esKTC, not to the rewards earned from staking Multiplier Points themselves."
+  },
+  {
+    "question": "Why must users be careful when unstaking their tokens?",
+    "answer": "Users must be careful when unstaking their tokens and should only do so when they are ready to convert them into $KTC tokens or withdraw them from the Vesting Vault."
+  },
+  {
+    "question": "How are Multiplier Points handled when users unstake KTC or esKTC tokens?",
+    "answer": "The proportional amount of Multiplier Points is burned when KTC or esKTC tokens are unstaked."
+  },
+  {
+    "question": "What happens to the Multiplier Points when they are burned?",
+    "answer": "When Multiplier Points are burned, the burn will apply to the total amount of Multiplier Points which includes both staked and unstaked Multiplier Points."
+  },
+  {
+    "question": "What must users ensure for Multiplier Points to be in effect?",
+    "answer": "Users must ensure that their $KTC and $esKTC tokens are staked for Multiplier Points to be in effect."
+  },
+  {
+    "question": "How can users participate in fun and rewarding campaigns?",
+    "answer": "Users can participate in fun and rewarding campaigns by accumulating points from protocol activity on the Rewards Page."
+  },
+  {
+    "question": "What information can be found on the Rewards Page?",
+    "answer": "The page will contain information on current campaigns and historical campaigns that you previously participated in."
+  },
+  {
+    "question": "What is the function of the Rewards Page?",
+    "answer": "The Rewards Page is where you can participate in fun and rewarding campaigns by accumulating points from protocol activity."
+  },
+  {
+    "question": "How does the team plan to update the KTX Rewards Page?",
+    "answer": "The team will gradually be adding more mini games to the page."
+  },
+  {
+    "question": "What is an example of Multiplier Point burning?",
+    "answer": "In the scenario where 1000 KTC is staked and 200 Multiplier Points have been earned so far, then unstaking 500 KTC would burn 100 Multiplier Points."
+  },
+  {
+    "question": "What is one way to increase returns for users through Multiplier Points?",
+    "answer": "Staking Multiplier Points offers users an additional avenue for increasing their returns."
+  },
+  {
+    "question": "What earns users when staking KTC?",
+    "answer": "Staking KTC earns you $KTC Staking Fee Rebates."
+  },
+  {
+    "question": "Where can users find information regarding protocol activity and campaigns?",
+    "answer": "Users can find this information on the Rewards Page."
+  },
+  {
+    "question": "What determines a user's VIP Level?",
+    "answer": "The VIP Level is determined by the amount of KTC staked."
+  },
+  {
+    "question": "How are fee rebates calculated based on KTC staking?",
+    "answer": "Rebates will be calculated based on the lowest amount of KTC staked within a week."
+  },
+  {
+    "question": "What is the trading fee rebate for VIP 1 users?",
+    "answer": "VIP 1 users receive a 2.5% trading fee rebate."
+  },
+  {
+    "question": "What is the highest percentage rebate available under the KTC staking rewards?",
+    "answer": "The highest specified rebate rate is 20% for VIP 3 users."
+  },
+  {
+    "question": "Why are anti-sybil mechanisms implemented?",
+    "answer": "Anti-sybil mechanisms are implemented to mitigate the risks of inorganic referrals and promote genuine user growth."
+  },
+  {
+    "question": "How are rebates distributed?",
+    "answer": "Rebates will be distributed on a weekly basis, and users can check their reward in the KTC Staking Rebate Log."
+  },
+  {
+    "question": "What is the benefit for referred users when using the referral program?",
+    "answer": "Referred users receive a 5% trading discount."
+  },
+  {
+    "question": "How do referrers earn rewards in the affiliate programme?",
+    "answer": "Referrers earn 10% of the referred users’ fees."
+  },
+  {
+    "question": "What is required to generate a unique omni-chain referral code?",
+    "answer": "A user must first generate their unique referral code, share it with friends, have an invited user activate the link, and complete reward distribution."
+  },
+  {
+    "question": "How are rebates handled retrospectively?",
+    "answer": "Rebates will be retrospective; for example, rebates for week 1 will be distributed in week 2."
+  },
+  {
+    "question": "What is one method described for generating a unique referral code?",
+    "answer": "Generating a unique referral code and sharing it with trader friends is one step in the process."
+  },
+  {
+    "question": "How does KTC Staking Rewards relate to user status?",
+    "answer": "The amount of KTC staked directly determines the user's VIP Level."
+  },
+  {
+    "question": "What are the trading fee discounts associated with VIP 2 users?",
+    "answer": "VIP 2 users receive a 2.5% trading discount."
+  },
+  {
+    "question": "What is one example of tier requirement based on KTC amount?",
+    "answer": "VIP 3 requires KTC greater than 10,000 to qualify for the highest rewards."
+  },
+  {
+    "question": "How does the referral mechanism aim to attract users?",
+    "answer": "A simpler and way more attractive referral mechanism is derived, ensuring all users start on the same referral tier and enjoy benefits."
+  },
+  {
+    "question": "What system is in place to promote genuine user growth?",
+    "answer": "Anti-sybil mechanisms are implemented to promote genuine user growth."
+  },
+  {
+    "question": "What criteria must be achieved?",
+    "answer": "The criteria are Cumulative Trading Volume of at least $10,000 OR Staked at least 100 KTC tokens."
+  },
+  {
+    "question": "How can users continue using KTX if RPC URLs are unresponsive?",
+    "answer": "Users can use a backup URL in the network settings of their wallet to continue using KTX during these times."
+  },
+  {
+    "question": "What is KTX.Finance?",
+    "answer": "KTX.Finance is a decentralized perpetuals protocol."
+  },
+  {
+    "question": "How is data querying and transaction submission handled in KTX.Finance?",
+    "answer": "Querying of data and submission of transactions to a public network has to be done through an RPC URL."
+  },
+  {
+    "question": "What are the available chains listed for RPC URLs?",
+    "answer": "The available chains listed for RPC URLs are Arbitrum, BNB Chain, and Mantle."
+  },
+  {
+    "question": "What is one of the benefits of the ongoing program?",
+    "answer": "There is an ongoing “$KTC Staking Fee Rebates” program."
+  },
+  {
+    "question": "What will be launched soon regarding referrals?",
+    "answer": "An invite-only “Affiliate Program” with a substantial cut to fees referred to top performers of “Referral Mania” will be launched soon."
+  },
+  {
+    "question": "What is the address for the KTC token?",
+    "answer": "The KTC contract address is 0x779f4E5fB773E17Bc8E809F4ef1aBb140861159a."
+  },
+  {
+    "question": "What is the specific contract address for KlpManager?",
+    "answer": "The contract address for KlpManager is 0x3C4DE8fB37055500BB3D18eAE8dD0DffF527090e."
+  },
+  {
+    "question": "How is the position management handled in the protocol?",
+    "answer": "The PositionManager contract address is 0x9831Aa46Badb308f8E87a7e3ab080Adfd4f677a0."
+  },
+  {
+    "question": "What risks are associated with using RPC URLs?",
+    "answer": "RPC URLs might not always be responsive and might lead to slow transaction execution."
+  },
+  {
+    "question": "What is the address for the Vault contract?",
+    "answer": "The Vault contract address is 0x2e488D7ED78171793FA91fAd5352Be423A50Dae1."
+  },
+  {
+    "question": "How is reward distributed within the system?",
+    "answer": "The RewardRouter contract address is 0x207D39314707001Ae36f12335dD8b1F65cD688CA."
+  },
+  {
+    "question": "What information is available regarding the OrderBook?",
+    "answer": "The OrderBook contract address is 0x661D88E548214f5606a0491f03b072FD0F471E7C."
+  },
+  {
+    "question": "What is the specific storage location for referral data?",
+    "answer": "The ReferralStorage contract address is 0xbf0D05e5A3D34A428D02c07abE3dE0a2aA2D4937."
+  },
+  {
+    "question": "What is the function of the KtxVester address?",
+    "answer": "The KtxVester contract address is 0x2E4f63C3ffDF457ff210a29EF10CE3b12c132f0c."
+  },
+  {
+    "question": "What is the KlpManager address on Arbitrum?",
+    "answer": "The KlpManager address on Arbitrum is 0xfE824703DF7E6F9A71e8d44c78ba24Ded1F631F30."
+  },
+  {
+    "question": "What is the function of a price oracle?",
+    "answer": "A price oracle is any tool used to view price information about a given asset."
+  },
+  {
+    "question": "How does a price oracle work?",
+    "answer": "The text indicates that a PriceFeed contract accepts submissions for price information, implying it facilitates the viewing of price data."
+  },
+  {
+    "question": "What is the KTC address on BNB Chain?",
+    "answer": "The KTC address on BNB Chain is 0x545356d4d69d8cD1213Ee7e339867574738751CA."
+  },
+  {
+    "question": "What are the contract addresses listed for the Arbitrum system?",
+    "answer": "The contract addresses listed for the Arbitrum system include KlpManager, KTC, Vault, PositionRouter, PositionManager, Router, OrderBook, RewardRouter, ReferralStorage, and KtxVester."
+  },
+  {
+    "question": "What is the address for the PositionManager on BNB Chain?",
+    "answer": "The address for the PositionManager on BNB Chain is 0xCe5dd2d857C4D02674379C7849c6D4C0F4b88b2f."
+  },
+  {
+    "question": "How is information stored according to the ReferralStorage addresses?",
+    "answer": "ReferralStorage addresses are used, for instance, 0xfD5B1E1FD193bc6cA0cd2A29F6E50Cc63cF8B8E2."
+  },
+  {
+    "question": "What is the Router address?",
+    "answer": "The Router addresses listed are various, such as 0x9f1b9116128f0ae393C6A51fF0CEFD000d3e1A60."
+  },
+  {
+    "question": "What is the OrderBook address?",
+    "answer": "The OrderBook addresses include 0x3826387B22c8e62891486872C4aabf120BCd99D4."
+  },
+  {
+    "question": "What is the KlpManager address on the main contract?",
+    "answer": "The KlpManager address for the main contract is 0xfF0255c564F810a5108F00be199600cF520507Ca."
+  },
+  {
+    "question": "What are some examples of specific addresses provided?",
+    "answer": "Examples of specific addresses provided include the lexicOrderRouter, KlpManager, KTC, Vault, and PositionRouter."
+  },
+  {
+    "question": "How is price information related to the PriceFeed contract?",
+    "answer": "The PriceFeed contract accepts submissions for viewing price information about a given asset."
+  },
+  {
+    "question": "What are the implications of using a price oracle?",
+    "answer": "Using a price oracle involves utilizing a tool to view price information, which is essential for making informed decisions regarding an asset."
+  },
+  {
+    "question": "Why are specific contract addresses important in this context?",
+    "answer": "These addresses define the contractual relationships and functionalities between systems like Arbitrum and BNB Chain."
+  },
+  {
+    "question": "How does the RewardRouter operate?",
+    "answer": "The RewardRouter has a specific address, 0x7d752c7b7Cc8F522Ec236b3B528cE7201bB17a70."
+  },
+  {
+    "question": "What is the KtxVester address?",
+    "answer": "The KtxVester address is 0x8cEeb6c4243E4e3835024cB4e169C26278b1B974."
+  },
+  {
+    "question": "What are the two types of keepers mentioned?",
+    "answer": "There are two types of keepers: Price feed keeper and Position keeper."
+  },
+  {
+    "question": "How does the Price feed keeper calculate prices?",
+    "answer": "The Price feed keeper calculates prices using the median price of Binance, Gate.io, Kucoin, OKX, Bybit, Coinbase and a few other CEXs."
+  },
+  {
+    "question": "Why are both Price feed keepers and Position keepers necessary?",
+    "answer": "These two keepers ensure users a real-time price when they create a position or execute a swap."
+  },
+  {
+    "question": "What is the role of a third-party oracle in the protocol?",
+    "answer": "A third-party oracle (Chainlink/Pyth/API3/…) serves as a Secondary PriceFeed to enhance the protocol's protection against incorrect pricing."
+  },
+  {
+    "question": "How does the protocol handle prices submitted by the keepers relative to the Secondary PriceFeed?",
+    "answer": "The protocol uses the price from the PriceFeed if it is within a configured percentage of the corresponding Secondary PriceFeed."
+  },
+  {
+    "question": "What risk arises if a keeper price exceeds the threshold?",
+    "answer": "If the price exceeds this threshold, a spread would be created between the keeper price and the secondary price."
+  },
+  {
+    "question": "How is the threshold for creating a spread determined?",
+    "answer": "This threshold is based on the historical max deviation of the third-party oracle price from the median price of reference exchanges."
+  },
+  {
+    "question": "What happens if a keeper price has expired?",
+    "answer": "If the last price has been submitted more than five minutes ago, the secondary price will be used instead."
+  },
+  {
+    "question": "How do watcher nodes verify the prices submitted by the keepers?",
+    "answer": "Watcher nodes continually compute the median price and compare this with the prices submitted by keepers."
+  },
+  {
+    "question": "What action is taken if a keeper price does not match the computed median price?",
+    "answer": "If the prices submitted by a keeper does not match the computed median price, then the watcher sends a transaction to enforce a spread between the keeper."
+  },
+  {
+    "question": "How do the keeper nodes ensure that prices are not tampered with?",
+    "answer": "Watcher nodes are run to verify that the prices submitted by the keepers have not been tampered with."
+  },
+  {
+    "question": "What reference exchanges are used for calculating the median price?",
+    "answer": "The median price is calculated using Binance, Gate.io, Kucoin, OKX, Bybit, Coinbase and a few other CEXs."
+  },
+  {
+    "question": "What entities act as the Secondary PriceFeed?",
+    "answer": "A third-party oracle (Chainlink/Pyth/API3/…) serves as a Secondary PriceFeed."
+  },
+  {
+    "question": "How are prices submitted by the keepers evaluated in relation to the median price?",
+    "answer": "Watcher nodes continually compute the median price and compare this with the prices submitted by keepers."
+  },
+  {
+    "question": "What is an example of a mechanism used to enforce a spread?",
+    "answer": "A spread would be created between the keeper price and the secondary price if the price exceeds the threshold."
+  },
+  {
+    "question": "How long do prices from the keeper remain valid before using the secondary price?",
+    "answer": "Prices from the keeper also have an expiry of five minutes."
+  },
+  {
+    "question": "What operates as a decentralized perpetual exchange?",
+    "answer": "KTX.Finance operates as a decentralised perpetual exchange."
+  },
+  {
+    "question": "How are all functions of KTX.Finance made accessible?",
+    "answer": "All functions are publicly accessible through corresponding RPCs."
+  },
+  {
+    "question": "What contracts are involved in PriceFeed?",
+    "answer": "PriceFeed contracts operate on different networks."
+  },
+  {
+    "question": "What is the address for the PriceFeed contract on Mantle?",
+    "answer": "The address for the PriceFeed contract on Mantle is 0x391536D06480e554cFA60F9E2Be0f3BbE5A377CA."
+  },
+  {
+    "question": "What is the address for the PriceFeed contract on Arbitrum?",
+    "answer": "The address for the PriceFeed contract on Arbitrum is 0x2e5dC67A12cdcF80124e0D2ba01b7A9F04De04C6."
+  },
+  {
+    "question": "What is the address for the PriceFeed contract on BNB Chain?",
+    "answer": "The address for the PriceFeed contract on BNB Chain is 0xDe131C73602Df41Decb30E8b1ad16205af048579."
+  },
+  {
+    "question": "How can users find information on interacting with smart contracts?",
+    "answer": "Information on how to interact with the contracts directly can be found via ABI Interaction."
+  },
+  {
+    "question": "What is the purpose of this guide?",
+    "answer": "This guide provides insights on how to interact directly with the smart contracts responsible for executing trading functions on KTX.Finance."
+  },
+  {
+    "question": "How does one open a position and set orders within the same transaction?",
+    "answer": "One can open a position and/or set limit orders within the same transaction."
+  },
+  {
+    "question": "What contract ABI information is available for ComplexOrderRouter.sol on Arbitrum?",
+    "answer": "The ABI for ComplexOrderRouter.sol on Arbitrum is found at https://arbiscan.io/address/0xf399f6d0a6151e77b0f0e9fbbfeb56a21e535e05#co."
+  },
+  {
+    "question": "How is the collateral token determined for long orders?",
+    "answer": "For long orders, the collateral token must be the same as the index token."
+  },
+  {
+    "question": "What is an example of a long order setup with BTC collateral?",
+    "answer": "An example of a long order is long BTC with BTC as collateral, where _path = [\"BTC address\"]."
+  },
+  {
+    "question": "What is the requirement for short orders regarding collateral?",
+    "answer": "For short orders, the collateral token must be stable token."
+  },
+  {
+    "question": "How does one find the ABI for ComplexOrderRouter.sol on Mantle?",
+    "answer": "The ABI for ComplexOrderRouter.sol on Mantle can be found at https://explorer.mantle.xyz/address/0x6154dce92267af35C733dBa5D20E36Ee3F8eD3d8/contracts?contract-tab=code#address-tabs."
+  },
+  {
+    "question": "What token is used as collateral for short BTC orders?",
+    "answer": "For short BTC orders, USDT is used as the collateral."
+  },
+  {
+    "question": "What happens when tokenIn is swapped into collateralToken before creating a position?",
+    "answer": "tokenIn will be swapped into collateralToken before creates position."
+  },
+  {
+    "question": "Why is swapping tokenIn into collateralToken not recommended?",
+    "answer": "swap fee applies."
+  },
+  {
+    "question": "How are the amounts of tokens specified, such as for USDT and ETH?",
+    "answer": "If _path = [\"USDT address\", \"ETH address\"], 3*10^6 means 3 USDT because USDT has 6 decimals."
+  },
+  {
+    "question": "What does the field _amountIn represent?",
+    "answer": "_amountIn is the collateral token amount."
+  },
+  {
+    "question": "How is leverage calculated based on position size and collateral amount?",
+    "answer": "leverage = _sizeDelta[0]/_amountIn."
+  },
+  {
+    "question": "What are the risks associated with keeping leverage outside a specific range?",
+    "answer": "You may face unexpected liquidation if you do not keep leverage at 2 - 100."
+  },
+  {
+    "question": "Why must users keep leverage between 2 and 100?",
+    "answer": "to avoid unexpected liquidation."
+  },
+  {
+    "question": "How does the field _isLong determine the order type?",
+    "answer": "true means long order, and false means short order."
+  },
+  {
+    "question": "What is the purpose of the _minOut field?",
+    "answer": "_minOut is the swap minimum out, which is 0 if no swap is required."
+  },
+  {
+    "question": "What does _sizeDelta[1] control?",
+    "answer": "_sizeDelta[1] decreases the position size when take profit happens."
+  },
+  {
+    "question": "How does the system manage position size reduction during a take profit event?",
+    "answer": "_sizeDelta[1] is used to decrease position size when take profit happens."
+  },
+  {
+    "question": "What does _sizeDelta[2] control regarding position size?",
+    "answer": "_sizeDelta[2] decreases the position size when stop loss happens."
+  },
+  {
+    "question": "How can users decide if they want to create a take profit order?",
+    "answer": "0 if you do not want to create take profit order."
+  },
+  {
+    "question": "What is an example of setting a position with size = 3ETH using _sizeDelta?",
+    "answer": "[6**10^18, 0, 0]* for ETH means you simply want to open a position with size = 3ETH."
+  },
+  {
+    "question": "What is the purpose of setting _price[0]?",
+    "answer": "_price[0] is the acceptable price for position increase."
+  },
+  {
+    "question": "How is the acceptable price calculated for a long order?",
+    "answer": "The acceptable price is calculated using current_mark_price multiplied by (1 - acceptable_slippage)."
+  },
+  {
+    "question": "What is the default acceptable slippage used by KTX?",
+    "answer": "KTX by default uses 0.3% as acceptable_slippage on our website."
+  },
+  {
+    "question": "Why must the take profit price be greater than _price[0] for a long order?",
+    "answer": "For a long order, the take profit price must be greater than _price[0]."
+  },
+  {
+    "question": "What is the trigger price for a take profit order?",
+    "answer": "_price[1] is the trigger price for the take profit order."
+  },
+  {
+    "question": "How does the system ensure token exchange fees are avoided?",
+    "answer": "Normally, _token[0], _token[1], and _token[2] are set to be equal to avoid swap fees."
+  },
+  {
+    "question": "What is the intended use of _token[1]?",
+    "answer": "_token[1] represents the take-back token when a take profit happens."
+  },
+  {
+    "question": "What is the relationship between stop loss and position closure?",
+    "answer": "The position is fully closed when a stop loss order happens."
+  },
+  {
+    "question": "How is the acceptable price defined in terms of decimal precision?",
+    "answer": "The system uses 30 decimal precision (1*10^30 means price at $1)."
+  },
+  {
+    "question": "What are the execution fees for mantle positions?",
+    "answer": "The execution fee for mantle is 10^17."
+  },
+  {
+    "question": "How is the execution fee defined for a take profit order?",
+    "answer": "_executionFee[1] is used for the take profit order, with specific fees depending on the platform (e.g., 10^17 for mantle)."
+  },
+  {
+    "question": "What are the execution fees for arbitrum positions?",
+    "answer": "The execution fee for arbitrum is 2*10^14."
+  },
+  {
+    "question": "What token should be used as the take-back token when a stop loss occurs?",
+    "answer": "_token[2] represents the take-back token when the stop loss happens."
+  },
+  {
+    "question": "What is an example of token setup for creating a long ETH position?",
+    "answer": "An example is _token[0] = \"ETH address\", _token[1] = \"ETH address\", _token[2] = \"ETH address\"."
+  },
+  {
+    "question": "How does the system handle stop loss price constraints for short orders?",
+    "answer": "For a short order, the stop loss price must be greater than _price[0]."
+  },
+  {
+    "question": "What is the value associated with a stop loss order for Mantle?",
+    "answer": "10^17"
+  },
+  {
+    "question": "How much is the value of a stop loss order for Arbitrum?",
+    "answer": "2*10^14"
+  },
+  {
+    "question": "What happens if you do not want to create a stop loss order?",
+    "answer": "The value is 0."
+  },
+  {
+    "question": "How is the execution fee for Mantle determined?",
+    "answer": "The execution fee is 10^17 for mantle."
+  },
+  {
+    "question": "What is the execution fee for Arbitrum?",
+    "answer": "The execution fee is 2*10^14 for arbitrum."
+  },
+  {
+    "question": "How does the value change if an order contains both take profit and stop loss orders on Mantle?",
+    "answer": "310^17."
+  },
+  {
+    "question": "What is the execution fee when an order contains one of take profit or stop loss order on Arbitrum?",
+    "answer": "410^14."
+  },
+  {
+    "question": "What value is used if an order has no take profit or stop loss order for Mantle?",
+    "answer": "10^17."
+  },
+  {
+    "question": "How is the transaction value calculated based on the presence of take profit and stop loss orders?",
+    "answer": "The values depend on whether the order contains both, one, or none of these orders (e.g., 10^17 for mantle if no orders are present)."
+  },
+  {
+    "question": "What is executed after a transaction is sent?",
+    "answer": "A keeper will execute the request, which will either be executed or cancelled."
+  },
+  {
+    "question": "What happens if the position cannot be increased due to an unacceptable price?",
+    "answer": "The value will be refunded to the user."
+  },
+  {
+    "question": "How does one find the ABI for PositionRouter.sol on Arbitrum?",
+    "answer": "Find the ABI of PositionRouter.sol on Arbitrum."
+  },
+  {
+    "question": "What function is used to decrease a position?",
+    "answer": "PositionRouter.createDecreasePosition."
+  },
+  {
+    "question": "What parameters are used when calling PositionRouter.createDecreasePosition?",
+    "answer": "_path(address[]), _indexToken, _collateralDelta, _sizeDelta, _isLong, _receiver, _acceptablePrice, _minOut, _executionFee, and _withdrawET."
+  },
+  {
+    "question": "What is the execution fee for closing or decreasing a position on Mantle?",
+    "answer": "10^17."
+  },
+  {
+    "question": "What happens if WETH will be withdrawn?",
+    "answer": "The WETH will be unwrapped to ETH if this is set to true."
+  },
+  {
+    "question": "How is WETH handled if the condition is set to true?",
+    "answer": "The WETH will be unwrapped to ETH."
+  },
+  {
+    "question": "What is the purpose of the _callbackTarget?",
+    "answer": "It is an optional callback contract."
+  },
+  {
+    "question": "How is the _callbackTarget utilized?",
+    "answer": "This contract will be called on request execution or cancellation."
+  },
+  {
+    "question": "What happens after a transaction is sent?",
+    "answer": "A keeper will execute the request, and the request will either be executed or cancelled."
+  },
+  {
+    "question": "Why might a request be cancelled?",
+    "answer": "The request will be cancelled if the position cannot be decreased for reasons such as the _acceptablePrice not being fulfillable."
+  },
+  {
+    "question": "What happens to the position if it cannot be decreased?",
+    "answer": "There will be no change to the position."
+  },
+  {
+    "question": "How are open trades fetched?",
+    "answer": "Open trades are fetched through subgraph query."
+  },
+  {
+    "question": "What URL is used to fetch open trades on Arbitrum?",
+    "answer": "https://arbisubgraph.ktx.systems/subgraphs/name/ktx"
+  },
+  {
+    "question": "How are open limit orders fetched?",
+    "answer": "Open limit orders are fetched through subgraph query."
+  },
+  {
+    "question": "What is required to fetch order information on Mantle?",
+    "answer": "The request URL for Mantle is https://mantlesubgraph.ktx.finance/subgraphs/name/ktx."
+  },
+  {
+    "question": "How should the query be structured to find active positions?",
+    "answer": "The query must include orderBy: timestamp, orderDirection: desc, and where: {status: \"active\", account: \"your_address_in_lower_case\"}."
+  },
+  {
+    "question": "What information is returned for an open position?",
+    "answer": "The returned information includes account, collateral, collateralToken, isLong, size, timestamp, indexToken, and averagePrice."
+  },
+  {
+    "question": "How can one identify open limit orders?",
+    "answer": "By fetching them through a subgraph query specifying where: {status: open, account: \"your_address_in_lower_case\"}."
+  },
+  {
+    "question": "What fields are returned for fetched limit orders?",
+    "answer": "The returned order information includes account, status, type, triggerPrice, triggerAboveThreshold, size, isLong, indexToken, index, id, and createdTimestamp."
+  },
+  {
+    "question": "What functions are used to execute a swap?",
+    "answer": "The swap is executed by calling Router.swap."
+  },
+  {
+    "question": "How do you approve the Router contract for a swap?",
+    "answer": "You must Approve the Router contract for the token and amount you would like to swap."
+  },
+  {
+    "question": "What parameters are required when calling Router.swap?",
+    "answer": "The required parameters are _path: [tokenIn, tokenOut], _amountIn, _minOut, and _receiver."
+  },
+  {
+    "question": "How is the maximum amount of tokenIn to be swapped determined before execution?",
+    "answer": "Call Reader.getMaxAmountIn with parameters: _vault, _tokenIn, and _tokenOut."
+  },
+  {
+    "question": "What values are returned by calling Reader.getAmountOut?",
+    "answer": "Two values will be returned: the amount out after fees, and the fee amount."
+  },
+  {
+    "question": "How are swap amounts calculated before execution?",
+    "answer": "This is done by calling Reader.getMaxAmountIn to get the maximum amount of tokenIn that can be swapped."
+  },
+  {
+    "question": "What information is returned by the function call for amount out after fees?",
+    "answer": "The first value returned is the amount out after fees."
+  },
+  {
+    "question": "Why will the function revert if the amount of tokenOut sent to the receiver is less than _minOut?",
+    "answer": "The function will revert if the amount of tokenOut sent to the receiver is less than _minOut."
+  },
+  {
+    "question": "What contract was audited by MetaTrust?",
+    "answer": "KTX.Finance has been audited by MetaTrust."
+  },
+  {
+    "question": "Who conducted the audit report for KTX.Finance?",
+    "answer": "MetaTrust conducted the audit for KTX.Finance."
+  },
+  {
+    "question": "What is provided as an example of finding the ABI of Router.sol on Arbitrum?",
+    "answer": "The link https://arbiscan.io/address/0x9f1b9116128f0ae393C6A51fF0CEFD000d3e1A60#co is provided."
+  },
+  {
+    "question": "How can the ABI of Router.sol be found on Mantle?",
+    "answer": "The link https://explorer.mantle.xyz/address/0xEa02deeb067AcEC119095845d780665883dC4583/contracts#address-tabs is provided."
+  },
+  {
+    "question": "What is the role of Reader in the swapping process?",
+    "answer": "Reader is used to get swap amounts before execution, such as getting the maximum amount in or the amount out and fee amount."
+  },
+  {
+    "question": "What are the required parameters for getting the fee amount when calling getAmountOut?",
+    "answer": "The function returns both the amount out after fees and the fee amount, which is expressed in terms of tokenOut."
+  },
+  {
+    "question": "Why are security audits being conducted in the future?",
+    "answer": "We will be conducting additional audits with other organizations in the future."
+  },
+  {
+    "question": "What is KTX compatible with?",
+    "answer": "KTX is compatible with a variety of leading wallet providers."
+  },
+  {
+    "question": "What wallets can users select to start using KTX?",
+    "answer": "Users can select Metamask, WalletConnect, OKX Wallet, Bitget Wallet, and Bybit Wallet."
+  },
+  {
+    "question": "How can users explore the vast possibilities of Web3?",
+    "answer": "By selecting any of the listed wallets to start using KTX."
+  },
+  {
+    "question": "What can users consider for added security when trading?",
+    "answer": "Users can consider using a hardware wallet for added security."
+  },
+  {
+    "question": "What are the two options for opening leveraged positions on KTX.Finance?",
+    "answer": "Users have the option to open leveraged positions through either a 'Long' or 'Short' trade."
+  },
+  {
+    "question": "Why do users execute a 'Long' position?",
+    "answer": "When executing a 'Long' position, users speculate that the future price of the asset will exceed the current price."
+  },
+  {
+    "question": "Why do users execute a 'Short' position?",
+    "answer": "Conversely, when executing a 'Short' position, users speculate that the future price of the asset will be below the current price."
+  },
+  {
+    "question": "How does a 'Long' position speculation work?",
+    "answer": "Users speculate that the future price of the asset will exceed the current price."
+  },
+  {
+    "question": "How does a 'Short' position speculation work?",
+    "answer": "Users speculate that the future price of the asset will be below the current price."
+  },
+  {
+    "question": "What steps are required for new users to trade on KTX.Finance?",
+    "answer": "New users have to \"Enable Leverage\" and \"Approve Collateral\" when they trade on KTX.Finance."
+  },
+  {
+    "question": "How do traders initiate the process of opening a position?",
+    "answer": "Traders initiate the process by selecting the \"Long\" button or the \"Short\" button."
+  },
+  {
+    "question": "What information is available regarding RPC Issues when trading?",
+    "answer": "More information can be found by following the provided link (implied reference to 'here')."
+  },
+  {
+    "question": "Where can users trade with leverage?",
+    "answer": "Users can trade with leverage on KTX.Finance here: https://app.ktx.finance/trade."
+  },
+  {
+    "question": "What is the purpose of enabling 'Long' or 'Short' trade selection?",
+    "answer": "It determines which side the user would like to open a leverage position on."
+  },
+  {
+    "question": "How are users updated with new information?",
+    "answer": "ge will be regularly updated with new information."
+  },
+  {
+    "question": "What does eir intend to open?",
+    "answer": "eir intent to open a leveraged long position."
+  },
+  {
+    "question": "How do traders determine the size of the long position?",
+    "answer": "The platform calculates the size of the long position based on the entered collateral and chosen leverage."
+  },
+  {
+    "question": "What is the example calculation provided for determining leverage?",
+    "answer": "If a trader utilizes 100 MNT worth 68.68 USD, they can determine the leverage multiple."
+  },
+  {
+    "question": "What is the resulting size of the long position in the provided example?",
+    "answer": "A long position of size 1689.17 USD is achievable with the specified collateral and leverage."
+  },
+  {
+    "question": "What is the Entry Price mentioned?",
+    "answer": "The Entry Price is $2490.60."
+  },
+  {
+    "question": "What is the Liquidation Price?",
+    "answer": "The Liquidation Price is $2406.01."
+  },
+  {
+    "question": "Why do trades on KTX.Finance aim to avoid price impacts?",
+    "answer": "Trades on KTX.Finance aim to avoid price impacts."
+  },
+  {
+    "question": "What introduces the possibility of price movements during blockchain transactions?",
+    "answer": "The inherent nature of blockchain transactions introduces the possibility of price movements during the confirmation phase."
+  },
+  {
+    "question": "What is slippage defined as?",
+    "answer": "Slippage is the difference between the expected price of the trade and the execution price."
+  },
+  {
+    "question": "What is the default slippage setting?",
+    "answer": "The default slippage is set at 0.3%."
+  },
+  {
+    "question": "How can slippage be changed?",
+    "answer": "You can tick the box \"Allow up to 1% slippage\" to change the slippage to 1%."
+  },
+  {
+    "question": "What causes potential discrepancies between trade details and final confirmation?",
+    "answer": "The confirmation time on the blockchain can vary based on network conditions, leading to potential discrepancies between the initially submitted trade details and the final confirmation."
+  },
+  {
+    "question": "How can users manage their open positions?",
+    "answer": "Open positions can be view under the \"Positions Tab\"."
+  },
+  {
+    "question": "What action is allowed for managing a position via deposit?",
+    "answer": "Deposit allows you to deposit additional collateral to reduce your leverage."
+  },
+  {
+    "question": "What option allows users to take actions to manage their position?",
+    "answer": "Users can take various actions to manage their position."
+  },
+  {
+    "question": "How does one increase leverage?",
+    "answer": "You can withdraw existing collateral to increase your leverage."
+  },
+  {
+    "question": "What is displayed as the leverage for a position?",
+    "answer": "Leverage for a position is displayed as (position size) / (position collateral)."
+  },
+  {
+    "question": "How can a trade be closed?",
+    "answer": "You can close a position partially or completely in the Close Positions of Position Tab."
+  },
+  {
+    "question": "What options are available when closing a position?",
+    "answer": "You can choose to close your position at a limit price or at a market price."
+  },
+  {
+    "question": "Why is there a swap fee when choosing collateral?",
+    "answer": "This is to prevent deposits from being used as a zero fee swap."
+  },
+  {
+    "question": "How are profits paid out for long positions?",
+    "answer": "For long positions, profits are paid in the asset you are longing, e.g. if you long ETH you would get your profits as ETH."
+  },
+  {
+    "question": "In what asset are profits paid out for short positions?",
+    "answer": "For short positions, profits will be paid out in BUSD that you used to open the position."
+  },
+  {
+    "question": "What happens if a token's price crosses the Liquidation Price?",
+    "answer": "The position will be automatically closed and liquidation will happen."
+  },
+  {
+    "question": "Where is the Liquidation Price shown?",
+    "answer": "The Liquidation Price is showing in your Position tab."
+  },
+  {
+    "question": "What fee might be incurred when choosing a different collateral asset?",
+    "answer": "A swap fee will be incurred if a different collateral asset than that required was chosen."
+  },
+  {
+    "question": "Does the swap fee apply to shorts?",
+    "answer": "This does not apply to shorts."
+  },
+  {
+    "question": "Does withdrawing collateral from longs and shorts incur a fee?",
+    "answer": "Withdrawing of collateral from longs and shorts do not have this fee as well."
+  },
+  {
+    "question": "How can an order amount be entered for closing a position?",
+    "answer": "The amount for the order can be entered in the close position order column."
+  },
+  {
+    "question": "What factors cause the liquidation price to change over time?",
+    "answer": "Your liquidation price will change over time, especially if you use a leverage that is more than 10x and have the position open for more than [incomplete text]."
+  },
+  {
+    "question": "What needs to be monitored a few days?",
+    "answer": "your liquidation price."
+  },
+  {
+    "question": "What happens if there is collateral remaining after deducting losses and fees?",
+    "answer": "the corresponding amount would be returned to your account."
+  },
+  {
+    "question": "How can stop-loss and take-profit orders be set?",
+    "answer": "by clicking on the \"Close\" button and selecting the \"Trigger\" tab."
+  },
+  {
+    "question": "What is the definition of a Market Order?",
+    "answer": "An order to buy or sell as quickly as possible at at the best available market price."
+  },
+  {
+    "question": "How is a Market Order executed?",
+    "answer": "The order will be executed immediately."
+  },
+  {
+    "question": "What is a Limit Order?",
+    "answer": "An order to buy or sell with a restriction on the maximum price paid or the minimum price to be received."
+  },
+  {
+    "question": "When is a Limit Order executed?",
+    "answer": "When the mark price reaches the order price, the order will be executed."
+  },
+  {
+    "question": "What is a Take Profit Order?",
+    "answer": "Type of limit order specifies the exact price at which to close out an open position for a profit."
+  },
+  {
+    "question": "When is a Take Profit order executed?",
+    "answer": "When the Mark Price reaches the trigger price, the Take Profit order will be executed."
+  },
+  {
+    "question": "What is a Stop Loss Order?",
+    "answer": "An order to limit trader’s loss or lock in a profit on an existing position by closing out a position if the price reaches specific level."
+  },
+  {
+    "question": "When is a Stop Loss Order executed?",
+    "answer": "When the Mark Price reaches the trigger price, the Stop Loss Order will be executed."
+  },
+  {
+    "question": "What is the difference between a Market Order and a Limit Order?",
+    "answer": "A Market Order is to buy or sell as quickly as possible at the best available market price, while a Limit Order has a restriction on the maximum price paid or minimum price received."
+  },
+  {
+    "question": "What must be monitored regarding liquidation?",
+    "answer": "your liquidation price."
+  },
+  {
+    "question": "How is collateral handled if losses and fees are deducted?",
+    "answer": "the corresponding amount would be returned to your account."
+  },
+  {
+    "question": "What is KLP?",
+    "answer": "KLP is the liquidity token of the protocol."
+  },
+  {
+    "question": "How does one become a liquidity provider?",
+    "answer": "By purchasing KLP, which means minting KLP in the liquidity pool."
+  },
+  {
+    "question": "What happens when you sell KLP?",
+    "answer": "While selling KLP results in burning, or reducing, the total supply of KLP tokens."
+  },
+  {
+    "question": "How are liquidity providers rewarded for their contribution?",
+    "answer": "LPs are rewarded with 70% of the protocol's trading fees, distributed in $BNB and $ETH."
+  },
+  {
+    "question": "What assets are LPs rewarded with besides $BNB and $ETH?",
+    "answer": "LPs might also receive rewards in another form of token or asset, referred to as esKTC."
+  },
+  {
+    "question": "Why must one manually cancel associated trigger orders?",
+    "answer": "You would need to cancel them manually if you do not want the order to be active when opening future positions."
+  },
+  {
+    "question": "What are some situations where orders are not guaranteed to execute?",
+    "answer": "Orders are not guaranteed to execute in situations including but not exclusive to: The mark price did not reach the specified price, the specified price was reached but not long enough for it to be executed, or no keeper picked up the order for execution."
+  },
+  {
+    "question": "What is the trigger price?",
+    "answer": "The text mentions 'the trigger price if needed'."
+  },
+  {
+    "question": "How is a transaction based on market conditions?",
+    "answer": "The transaction will be executed based on the current market price and liquidity available."
+  },
+  {
+    "question": "What must be done regarding trigger orders if closing a position manually?",
+    "answer": "The associated trigger orders will remain open, and you would need to cancel them manually if you do not want the order to be active when opening future positions."
+  },
+  {
+    "question": "What is the definition of the mark price?",
+    "answer": "The mark price is an aggregate of exchange prices."
+  },
+  {
+    "question": "How are trigger orders classified?",
+    "answer": "Trigger orders are market orders and are not guaranteed to execute at the trigger price."
+  },
+  {
+    "question": "What is provided by purchasing KLP?",
+    "answer": "By purchasing KLP, you become a liquidity provider."
+  },
+  {
+    "question": "How is the total supply of KLP affected by selling?",
+    "answer": "Selling KLP results in burning, or reducing, the total supply of KLP tokens."
+  },
+  {
+    "question": "What information can be seen regarding liquidity provision?",
+    "answer": "More info can be seen on the Providing Liquidity."
+  },
+  {
+    "question": "How can one initiate a buy or sell transaction for KLP?",
+    "answer": "The amount of KLP you want to buy or sell can be entered on the Buy/Sell $KLP page."
+  },
+  {
+    "question": "What happens after buying KLP?",
+    "answer": "KLP tokens will be automatically staked and rewards will be distributed proportionately."
+  },
+  {
+    "question": "How does staking KLP entitle you to receive platform fees?",
+    "answer": "Staking KLP entitles you to receive platform fees distributed in ETH / BNB and earn esKTC Rewards."
+  },
+  {
+    "question": "What can a user receive when staking KTC?",
+    "answer": "When staking KTC, you can receive esKTC, ETH / BNB and Multiplier Points every second at respective annual percentage rates (APR)."
+  },
+  {
+    "question": "Why must one ensure they have purchased KTC before staking it?",
+    "answer": "Before staking KTC, please make sure you have purchased KTC."
+  },
+  {
+    "question": "How are rewards distributed when staking KLP?",
+    "answer": "Rewards will be distributed proportionately."
+  },
+  {
+    "question": "What can you stake in your wallet at the Staking & Rewards page?",
+    "answer": "You can stake KTC and esKTC in your wallet at the Staking & Rewards page, clicking \"Stake\"."
+  },
+  {
+    "question": "What is the reward for staking $esKTC?",
+    "answer": "The rewards for staking esKTC are the same as staking $KTC."
+  },
+  {
+    "question": "How does Compound work regarding rewards?",
+    "answer": "Compounding allows you to automatically stake your pending Multiplier Points and $esKTC rewards, which then increases the amount of rewards you receive."
+  },
+  {
+    "question": "What is the benefit of using Compound?",
+    "answer": "It is a quick way to stake the $KTC and $esKTC rewards and claim the $ETH rewards into your wallet."
+  },
+  {
+    "question": "How does Claim process transfers rewards?",
+    "answer": "Claiming will transfer the pending $esKTC rewards and $ETH/$BNB rewards to your wallet."
+  },
+  {
+    "question": "What are the costs associated with distributed fees?",
+    "answer": "The fees distributed are based on the number after deducting referral rewards and the network costs of keepers, keeper costs are usually around 1% of the total fees."
+  },
+  {
+    "question": "Why are keeper costs calculated?",
+    "answer": "Keeper costs are usually around 1% of the total fees."
+  },
+  {
+    "question": "How is esKTC vested into actual KTC tokens?",
+    "answer": "esKTC is vested every second linearly over a period of one year to actual KTC tokens."
+  },
+  {
+    "question": "What information is available regarding the tokenomics?",
+    "answer": "More info be seen on the Tokenomics."
+  },
+  {
+    "question": "How are staking rewards calculated across different actions?",
+    "answer": "Rewards can include esKTC, ETH / BNB, and Multiplier Points based on respective annual percentage rates (APR)."
+  },
+  {
+    "question": "What must be done with s (KTC/KLP) used to earn esKTC rewards?",
+    "answer": "s (KTC/KLP) that were used to earn the esKTC rewards need to be staked with the esKTC."
+  },
+  {
+    "question": "How do you start the vesting process for $esKTC?",
+    "answer": "First, you need to unstake the esKTC you earned from staking at the esKTC Vesting page."
+  },
+  {
+    "question": "How is the $esKTC vested after depositing?",
+    "answer": "After confirming the action in your wallet, your $esKTC will be vested."
+  },
+  {
+    "question": "What options are available for vesting $esKTC?",
+    "answer": "You can choose KTC Vesting Vault or KLP Vesting Vault to vest your $esKTC."
+  },
+  {
+    "question": "How do you bridge KTC assets?",
+    "answer": "To bridge KTC, you need to choose the chains you want to transfer, Approve it, enter the amount of KTC you want to bridge, and click Transfer."
+  },
+  {
+    "question": "What is the purpose of using a cross-chain bridge?",
+    "answer": "If you want to engage in cross-chain transactions, you must transfer your assets via a cross-chain bridge."
+  },
+  {
+    "question": "How does the Bridge Assets process show the user what they will receive?",
+    "answer": "When bridging assets, entering the amount of token you want to transfer will show your the amount of token you'll receive."
+  },
+  {
+    "question": "What information can be checked regarding deposits or withdrawals?",
+    "answer": "You can check the bridging history in the links and status of your deposit, withdrawal or migration transactions on Mainnet."
+  },
+  {
+    "question": "How is the amount of required staking tokens determined during vesting?",
+    "answer": "When depositing, it also shows you the the amount of $KTC or $KLP tokens you need to keep staking at \"Reserve Amount\"."
+  },
+  {
+    "question": "What applications and platforms are provided for trading information?",
+    "answer": "The available links include a Trading Application, Telegram, and Discord."
+  },
+  {
+    "question": "How can users check more information about esKTC?",
+    "answer": "More info can be found on the esKTC page."
+  },
+  {
+    "question": "What steps are required to bridge assets?",
+    "answer": "To bridge assets, you choose the chains and assets you want to transfer, then enter the amount of token you want to transfer."
+  },
+  {
+    "question": "How does one bridge KTC?",
+    "answer": "One must first Approve the KTC, then enter the amount of KTC desired, and click Transfer."
+  },
+  {
+    "question": "What is the function of the KTC Vesting Vault?",
+    "answer": "The KTC Vesting Vault is a mechanism chosen for vesting $esKTC."
+  },
+  {
+    "question": "How can users access cross-chain transaction features?",
+    "answer": "Users must transfer their assets via a cross-chain bridge to engage in cross-chain transactions."
+  },
+  {
+    "question": "What is KTX.Finance?",
+    "answer": "KTX.Finance is the informational resource for the KTX Protocol."
+  },
+  {
+    "question": "What does KTX.Finance provide information about?",
+    "answer": "KTX.Finance provides information and resources about the fundamentals of the decentralized non-custodial protocol called the KTX.Finance Protocol."
+  },
+  {
+    "question": "How is the KTX Protocol defined in the context of Terms and Conditions?",
+    "answer": "The KTX Protocol is defined as the KTX.Finance Protocol, Protocol, or KTX.Finance DApp."
+  },
+  {
+    "question": "What is KTX.Finance not an available access point to?",
+    "answer": "KTX.Finance is not an available access point to the KTX Protocol."
+  },
+  {
+    "question": "How can third-party apps use KTX brand and assets?",
+    "answer": "The brand assets help 3rd-party apps and integrations to use KTX.Finance's brand and assets correctly and consistently."
+  },
+  {
+    "question": "What are some examples of ecosystem partners listed?",
+    "answer": "Ecosystem Partner Partnership Links include Mantle Network, BNB Chain, FusionX, PancakeSwap, and Defillama."
+  },
+  {
+    "question": "What is the purpose of links related to the Ecosystem?",
+    "answer": "The links relate to Ecosystem Partner Partnership Links for various networks and protocols like Mantle Network and BNB Chain."
+  },
+  {
+    "question": "How can one purchase KTC on the Mantle Network?",
+    "answer": "One can Purchase KTC on Mantle Network via a linked instruction."
+  },
+  {
+    "question": "What entity is a Gas Grant Recipient associated with?",
+    "answer": "BNB Chain is listed as a Gas Grant Recipient."
+  },
+  {
+    "question": "What information sources are available for KTX Price Information?",
+    "answer": "Price information links are provided via CoinMarketCap, CoinGecko, and DexScreener."
+  },
+  {
+    "question": "How can users access the core code related to KTX?",
+    "answer": "The Github link points to the repository for KTX-core."
+  },
+  {
+    "question": "What is the specific protocol being discussed in the introductory text?",
+    "answer": "The decentralized non-custodial protocol called the KTX.Finance Protocol is discussed."
+  },
+  {
+    "question": "Which price oracle is listed for KTC information?",
+    "answer": "Pyth and API3 are listed as Price Oracles for KTC Information."
+  },
+  {
+    "question": "What specific links relate to KTC financial data?",
+    "answer": "Links exist for CoinMarketCap, CoinGecko, DexScreener, and specific DexScreener price information."
+  },
+  {
+    "question": "What is the last modification date for the Terms and Conditions?",
+    "answer": "The Terms and Conditions were last modified on 18 January, 2024."
+  },
+  {
+    "question": "What is the purpose of the KTX.Finance site?",
+    "answer": "The KTX.Finance site is for informational purposes only."
+  },
+  {
+    "question": "How do users access KTX.Finance and the dashboard?",
+    "answer": "Access is governed by Terms which explain the terms and conditions by which you may access the Site and Interface."
+  },
+  {
+    "question": "What does KTX.Finance not have possession, custody, or control over?",
+    "answer": "KTX.Finance does not have possession, custody, or control over any crypto assets appearing on the Interface; and it does not have possession, custody, or control over any user's funds."
+  },
+  {
+    "question": "How does KTX.Finance handle crypto assets?",
+    "answer": "KTX.Finance does not store, send, or receive any crypto assets."
+  },
+  {
+    "question": "Why must users interact with KTX Protocol smart contracts?",
+    "answer": "When you interact with any KTX Protocol smart contracts, you always retain control over your crypto assets."
+  },
+  {
+    "question": "What is the relationship between KTX.Finance and blockchain transactions?",
+    "answer": "KTX.Finance is not part of any transaction on the blockchain networks underlying the KTX Protocol."
+  },
+  {
+    "question": "How do users maintain control over their crypto assets during interaction?",
+    "answer": "You always retain control over your crypto assets when you interact with any KTX Protocol smart contracts."
+  },
+  {
+    "question": "What access does KTX.Finance have to private keys?",
+    "answer": "KTX.Finance does not have access to your private keys."
+  },
+  {
+    "question": "What is the status of the KTX.Finance site?",
+    "answer": "The KTX.Finance site is for informational purposes only."
+  },
+  {
+    "question": "What must a person warrant regarding the Terms?",
+    "answer": "If you are an individual person, you are of legal age in the jurisdiction in which you reside, and you have the legal capacity to enter into these Terms and be bound by them."
+  },
+  {
+    "question": "How does KTX.Finance relate to possession of assets on the Interface?",
+    "answer": "KTX.Finance does not have possession, custody, or control over any crypto assets appearing on the Interface."
+  },
+  {
+    "question": "What is a risk for users regarding their funds under KTX.Finance?",
+    "answer": "Users retain full control over their funds, as KTX.Finance does not have custody or control over user's funds."
+  },
+  {
+    "question": "What terms govern access to the Site and Interface?",
+    "answer": "Terms explain the terms and conditions by which you may access KTX.Finance (the Site) and KTX.Finance/dashboard (the Interface)."
+  },
+  {
+    "question": "What is the legal requirement for an entity accepting the Terms?",
+    "answer": "If you are an entity, you must have the legal authority to accept these Terms on that entity's behalf."
+  },
+  {
+    "question": "What are the types of restrictions mentioned in the text?",
+    "answer": "The restrictions relate to being a U.S. Person, residency/nationality status regarding embargoes by the U.S., UK, or EU, and subject status to economic or trade sanctions."
+  },
+  {
+    "question": "What is the term for territories subject to embargoes imposed by specific countries?",
+    "answer": "Restricted Territories."
+  },
+  {
+    "question": "What are 'Sanctions Lists Persons'?",
+    "answer": "These include individuals listed by the U.S. Office of Foreign Asset Control Specifically Designated Nationals and Blocked Person List, among other sanctions lists maintained by the U.S., UK, EU, or the United Nations."
+  },
+  {
+    "question": "How does a person determine if they are subject to sanctions?",
+    "answer": "A person is not subject to sanctions if they are not subject to economic or trade sanctions administered or enforced by any governmental authority and are not members of any specified sanctions lists."
+  },
+  {
+    "question": "What action is prohibited regarding Restricted Persons or Sanctions List Persons?",
+    "answer": "The text implies that intending to transact with a Restricted Person or Sanctions List Person is restricted under these rules."
+  },
+  {
+    "question": "How must one handle the use of privacy tools regarding restrictions?",
+    "answer": "One must not use VPN software or any other privacy or anonymization tools or techniques, or other means, to circumvent or attempt to circumvent any restrictions that apply."
+  },
+  {
+    "question": "Why are specific persons designated under sanctions lists?",
+    "answer": "They are designated under sanctions lists (like the SDN list) due to governmental authority administration or enforcement of economic or trade sanctions."
+  },
+  {
+    "question": "How do regulations govern access and activities?",
+    "answer": "Access is governed by rules, letters, orders, judgments, decrees, requirements, guidance, and guidelines published or in force that apply to or are intended to govern or regulate any person, property, transaction, activity, event or other matter."
+  },
+  {
+    "question": "What are examples of governing documents mentioned?",
+    "answer": "Examples include domestic or foreign laws, rules, statutes, regulations, by-laws, orders, protocols, codes, decrees, letters, and directives."
+  },
+  {
+    "question": "What is the general context of compliance outlined in the text?",
+    "answer": "The context involves defining restrictions on persons, nationalities, access, transaction intentions, and the prohibition of circumvention techniques related to international sanctions and embargoes."
+  },
+  {
+    "question": "What type of tools are explicitly forbidden for circumventing restrictions?",
+    "answer": "VPN software or any other privacy or anonymization tools or techniques, or other means."
+  },
+  {
+    "question": "What is the central theme concerning government authority?",
+    "answer": "The theme relates to whether access or activity violates or assists in violating domestic or foreign law, rule, statute, regulation, etc., as governed by governmental authorities."
+  },
+  {
+    "question": "What constitutes a 'Restricted Territory' context?",
+    "answer": "A territory is considered restricted if it is subject to embargoes imposed by the United States, the United Kingdom, or the European Union."
+  },
+  {
+    "question": "Why are sanctions lists maintained by various governments?",
+    "answer": "They are maintained because of the administration or enforcement of economic or trade sanctions by governmental authorities."
+  },
+  {
+    "question": "How is a person defined regarding sanctions status?",
+    "answer": "A person is not subject to sanctions if they are not a member of any specified sanctions list maintained by the relevant governments."
+  },
+  {
+    "question": "What collectively define \"Applicable Laws\"?",
+    "answer": "Applicable Laws are rective or other requirements, guidance, or guideline issued by any domestic or foreign federal, provincial or state, municipal, local or other governmental, regulatory, judicial or administrative authority having jurisdiction over KTX.Finance or you as otherwise duly enacted, enforceable by law, the common law or equity."
+  },
+  {
+    "question": "Why are certain actions considered illegal in relation to KTX.Finance?",
+    "answer": "Actions are considered illegal if they contribute to or facilitate any illegal activity."
+  },
+  {
+    "question": "How can the Site or the Interface become inaccessible?",
+    "answer": "The Site or the Interface may be inaccessible or inoperable for any reason, including equipment malfunctions, periodic maintenance procedures or repairs, causes beyond KTX.Finance's control, disruptions of blockchain infrastructure, or unavailability of third-party service providers."
+  },
+  {
+    "question": "What are some reasons listed for potential Site inaccessibility?",
+    "answer": "Reasons include equipment malfunctions, periodic maintenance procedures or repairs, causes beyond KTX.Finance's control, disruptions and temporary or permanent unavailability of underlying blockchain infrastructure, and unavailability of third-party service providers or external partners."
+  },
+  {
+    "question": "What is one specific example of a cause for inaccessibility?",
+    "answer": "One example is equipment malfunctions (a). "
+  },
+  {
+    "question": "What legal authority applies to KTX.Finance according to the text?",
+    "answer": "Applicable Laws, which include requirements, guidance, or guidelines issued by governmental authorities and enacted laws, common law, or equity."
+  },
+  {
+    "question": "How does KTX.Finance reserve its right regarding access to the Site?",
+    "answer": "KTX.Finance reserves the right to disable or modify access to the Site at any time in the event of any breach of these Terms."
+  },
+  {
+    "question": "What condition must users acknowledge when accessing or using the Site or the Interface?",
+    "answer": "Users must acknowledge, understand, and agree to the following terms."
+  },
+  {
+    "question": "What is one risk mentioned regarding potential access modification?",
+    "answer": "The right to disable or modify access to the Site exists in the event of a breach of these Terms."
+  },
+  {
+    "question": "Why might KTX.Finance modify access to the Site?",
+    "answer": "KTX.Finance may reserve the right to disable or modify access if it reasonably believes any of your representations and warranties may be untrue or inaccurate."
+  },
+  {
+    "question": "How does liability interact with site access modifications?",
+    "answer": "KTX.Finance will not be liable to you for any losses or damages you may suffer as a result of or in connection with the modification or disabling of access."
+  },
+  {
+    "question": "What are some examples of factors that cause unavailability of infrastructure?",
+    "answer": "Examples include disruptions and temporary or permanent unavailability of underlying blockchain infrastructure."
+  },
+  {
+    "question": "What external entities might be unavailable for KTX.Finance?",
+    "answer": "Unavailability of third-party service providers or external partners is a reason for inaccessibility."
+  },
+  {
+    "question": "What legal framework governs KTX.Finance operations?",
+    "answer": "Applicable Laws, which encompass requirements from governmental authorities and enacted laws."
+  },
+  {
+    "question": "How can users contribute to illegal activity?",
+    "answer": "Users may be implicated if they contribute to or facilitate any illegal activity."
+  },
+  {
+    "question": "What happens if the Site or Interface is inaccessible?",
+    "answer": "The text states that access may be inaccessible to you at any time or for any reason."
+  },
+  {
+    "question": "How does the Interface evolve?",
+    "answer": "The Interface may evolve, which means third parties may apply changes, replace, or discontinue (temporarily or permanently) the access at any time in their sole discretion."
+  },
+  {
+    "question": "What is the status of pricing information provided on the Site or Interface?",
+    "answer": "The pricing information provided does not represent an offer, a solicitation of an offer, or any advice regarding, or recommendation to enter into, a transaction with KTX.Finance."
+  },
+  {
+    "question": "Why does KTX.Finance disclaim acting as a broker or advisor?",
+    "answer": "KTX.Finance does not act as a broker or advisor for you."
+  },
+  {
+    "question": "How are users responsible for their use of the Site or Interface?",
+    "answer": "You are solely responsible for your use of the Site or the Interface, including all of your transfers of digital assets."
+  },
+  {
+    "question": "What duties does KTX.Finance owe to you regarding fiduciary duties?",
+    "answer": "To the fullest not prohibited by Applicable Law, we owe no fiduciary duties or liabilities to you or any other party."
+  },
+  {
+    "question": "How do users handle taxes applicable to their use of the Interface?",
+    "answer": "You are solely responsible for reporting and paying any taxes applicable to your use of the Interface."
+  },
+  {
+    "question": "What aspects of digital assets is KTX.Finance not responsible for?",
+    "answer": "KTX.Finance has no control over, or liability for, the delivery, quality, safety, legality, or any other aspect of any digital assets that you may transfer to or from a third party."
+  },
+  {
+    "question": "What are the risks regarding transactions with third parties?",
+    "answer": "KTX.Finance is not responsible for ensuring that an entity with whom you transact completes the transaction or is authorized to do so."
+  },
+  {
+    "question": "How is liability handled regarding digital asset transactions?",
+    "answer": "We are not responsible for ensuring that an entity completes a transaction or is authorized to do so concerning any digital assets transferred to or from a third party."
+  },
+  {
+    "question": "What is the user's responsibility concerning transfers of digital assets?",
+    "answer": "You are solely responsible for your use of the Site or the Interface, including all of your transfers of digital assets."
+  },
+  {
+    "question": "What responsibilities does the user have regarding reporting and paying taxes?",
+    "answer": "You are solely responsible for reporting and paying any taxes applicable to your use of the Interface."
+  },
+  {
+    "question": "How does the Interface evolution impact access?",
+    "answer": "Third parties may apply changes, replace, or discontinue (temporarily or permanently) the access at any time in their sole discretion."
+  },
+  {
+    "question": "What disclaimer is made regarding fiduciary duties and liabilities?",
+    "answer": "You hereby irrevocably disclaim, waive, and eliminate those duties and liabilities, to the extent any such duties or liabilities may exist at law or in equity."
+  },
+  {
+    "question": "What do you bear the entire risk for?",
+    "answer": "You bear the entire risk for the Site or the Interface."
+  },
+  {
+    "question": "How are fees related to transactions involving blockchain networks?",
+    "answer": "You are required to pay all fees for transactions involving certain blockchain networks."
+  },
+  {
+    "question": "What types of fees may be included?",
+    "answer": "These fees may include gas costs and all other fees reflected on the Interface at your use, including trading-related fees."
+  },
+  {
+    "question": "Why does KTX.Finance not receive fees for blockchain transactions or usage?",
+    "answer": "KTX.Finance does not receive fees for any blockchain transactions or using the Site or the Interface."
+  },
+  {
+    "question": "What advice should be sought before engaging in activity connected with the terms?",
+    "answer": "You are strongly advised to consult an advisor(s) before engaging in any activity in connection herewith."
+  },
+  {
+    "question": "What kind of advice is explicitly excluded from the information provided by the Site?",
+    "answer": "Nothing herein constitutes legal, financial, business, or tax advice."
+  },
+  {
+    "question": "Why should information provided by the Site not be construed as professional advice?",
+    "answer": "All information provided by the Site is for informational purposes only and should not be construed as professional advice."
+  },
+  {
+    "question": "How can users refrain from taking action based on site information?",
+    "answer": "You should not take, or refrain from taking, any action based on any information contained on the Site or any other information that we make available at any time."
+  },
+  {
+    "question": "What sources of additional information are included in what you should avoid basing actions upon?",
+    "answer": "You should not base actions on any information contained on the Site or any other information that we make available at any time, including, without limitation, blog posts, articles, links to third-party content, discord content, news feeds, tutorials, tweets, and videos."
+  },
+  {
+    "question": "What rights does KTX.Finance own regarding marks and logos?",
+    "answer": "KTX.Finance own all rights, names, logos, and other marks used on the Site and the Interface."
+  },
+  {
+    "question": "What materials do KTX.Finance own copyrights in?",
+    "answer": "KTX.Finance own any copyrights in and to any content, code, data, or other materials that you may access or use on or through the Site or the Interface."
+  },
+  {
+    "question": "How does the Proprietary Right section relate to the code of the KTX Protocol?",
+    "answer": "KTX.Finance own all rights, names, logos, and other marks used on the Site and the Interface, including, without limitation, any copyrights in and to any content, code, data, or other materials."
+  },
+  {
+    "question": "What must users pay fees for?",
+    "answer": "You are required to pay all fees for transactions involving certain blockchain networks."
+  },
+  {
+    "question": "What is the purpose of providing information by the Site?",
+    "answer": "All information provided by the Site is for informational purposes only."
+  },
+  {
+    "question": "What is deployed on IPFS?",
+    "answer": "nce/dashboard"
+  },
+  {
+    "question": "How is the dashboard deployed?",
+    "answer": "It is deployed on IPFS."
+  },
+  {
+    "question": "What rights does use or access to the Site or Interface not grant?",
+    "answer": "It does not grant you any ownership or other rights therein, except as expressly set forth herein."
+  },
+  {
+    "question": "How may KTX.Finance use user feedback?",
+    "answer": "KTX.Finance may use and share your comments, bug reports, ideas, or other feedback, including suggestions about how we might improve."
+  },
+  {
+    "question": "What is one way KTX.Finance may use received feedback?",
+    "answer": "They may copy and share such feedback with third parties, without any obligation to you."
+  },
+  {
+    "question": "Why does KTX.Finance have the right to modify the Site?",
+    "answer": "KTX.Finance reserves the right, at their sole discretion, to modify, suspend or disable the Site or their subdomain."
+  },
+  {
+    "question": "How can access to the Site be modified or suspended?",
+    "answer": "KTX.Finance may modify, suspend or disable (temporarily or permanently) the Site or their subdomain to the Interface, in whole or in part, for any reason whatsoever."
+  },
+  {
+    "question": "What happens upon termination of your access?",
+    "answer": "Your right to use the Site or the Interface from the subdomain will immediately cease."
+  },
+  {
+    "question": "What is one risk related to modification by KTX.Finance?",
+    "answer": "KTX.Finance will not be liable for any losses suffered by you resulting from any modification to the Site or the Interface or from any modification, suspension, or termination."
+  },
+  {
+    "question": "How is access still maintained if the Site is modified?",
+    "answer": "It would still be accessible via a third party since KTX.Finance does not host or own its code."
+  },
+  {
+    "question": "What right does KTX.Finance have regarding the Terms?",
+    "answer": "KTX.Finance may revise these Terms from time to time."
+  },
+  {
+    "question": "How will users be notified of changes?",
+    "answer": "We will notify you by updating the date at t"
+  },
+  {
+    "question": "What is the scope of KTX.Finance's liability regarding modifications?",
+    "answer": "KTX.Finance will not be liable for any losses suffered by you resulting from any modification, suspension, or termination."
+  },
+  {
+    "question": "What rights does KTX.Finance have concerning feedback?",
+    "answer": "KTX.Finance is free to use or not use any feedback we receive from you as we see fit, including copying and sharing such feedback with third parties."
+  },
+  {
+    "question": "Why are user comments and reports shared?",
+    "answer": "They may be used to improve the service."
+  },
+  {
+    "question": "What is the location for the most current version of the Terms?",
+    "answer": "The most current version of the Terms will always be at https://KTX.finance/#/terms-and-conditions."
+  },
+  {
+    "question": "How are modifications to the Terms made effective?",
+    "answer": "All modifications will be effective when they are posted."
+  },
+  {
+    "question": "Why must users agree to revised Terms?",
+    "answer": "By continuing to access or use the Site or the Interface after those revisions become effective, you agree to be bound by the revised Terms."
+  },
+  {
+    "question": "What technologies entail a risk when accessing transactions?",
+    "answer": "The use of technology related to blockchain, smart contracts, and cryptocurrencies, among others, entails a risk that by accessing transactions, you are assuming."
+  },
+  {
+    "question": "What is one risk associated with using blockchain technology?",
+    "answer": "There exists no guarantee of the functionality, security, or availability of the software and networks."
+  },
+  {
+    "question": "How can underlying blockchain networks change suddenly?",
+    "answer": "The underlying networks are subject to sudden changes in operating rules, such as those commonly referred to as \"forks,\" which may materially affect the Interface."
+  },
+  {
+    "question": "What is one responsibility of the user regarding private keys?",
+    "answer": "You are responsible for securing your private key(s)."
+  },
+  {
+    "question": "Why must users secure their private key(s)?",
+    "answer": "Losing control of your private key(s) will permanently and irreversibly deny you access to any blockchain-based network."
+  },
+  {
+    "question": "What is the status of the underlying software for blockchain networks?",
+    "answer": "The software underlying blockchain networks are open-source so anyone can use, copy, modify, and distribute it."
+  },
+  {
+    "question": "What does KTX.Finance not own or control?",
+    "answer": "KTX.Finance does not own or control any underlying software through which blockchain networks are formed."
+  },
+  {
+    "question": "How is the open-source software utilized?",
+    "answer": "Anyone can use, copy, modify, and distribute the underlying software."
+  },
+  {
+    "question": "What is KTX.Finance not responsible for?",
+    "answer": "KTX.Finance is not responsible for the operation of the open-source software and networks underlying the Interface."
+  },
+  {
+    "question": "What happens if a user loses control of their private key(s)?",
+    "answer": "Losing control of your private key(s) will permanently and irreversibly deny you access to any blockchain-based network."
+  },
+  {
+    "question": "What is one factor that may materially affect the Interface?",
+    "answer": "Sudden changes in operating rules, such as those commonly referred to as \"forks,\" may materially affect the Interface."
+  },
+  {
+    "question": "What is a requirement when accessing the Interface after revisions become effective?",
+    "answer": "You agree to be bound by the revised Terms."
+  },
+  {
+    "question": "What happens if your private key(s) are lost?",
+    "answer": "You will not be able to transfer your digital assets to any blockchain address or wallet."
+  },
+  {
+    "question": "Why can you not realize value from digital assets if your private key is lost?",
+    "answer": "If your private key(s) are lost, you will not be able to realize any value or utility from the digital assets you may hold."
+  },
+  {
+    "question": "How does KTX.Finance handle responsibility regarding third-party content?",
+    "answer": "KTX.Finance is not responsible for the content of any third party, including information, materials, products, or services that KTX.Finance does not own or control."
+  },
+  {
+    "question": "What is one potential risk associated with accessing third-party resources?",
+    "answer": "You do so at your own risk and understand that these Terms do not apply to your dealings or relationships with any third parties."
+  },
+  {
+    "question": "How are transactions entered in connection with the Interface handled regarding refunds?",
+    "answer": "Transactions entered in connection with the Interface are irreversible and final, and there are no refunds."
+  },
+  {
+    "question": "What is the nature of transactions entered through the Interface?",
+    "answer": "Transactions entered in connection with the Interface are irreversible and final."
+  },
+  {
+    "question": "Why must users assume risk when accessing the Interface?",
+    "answer": "You acknowledge and agree that you will access and use the Interface at your own risk."
+  },
+  {
+    "question": "What liability does KTX.Finance expressly relieve itself of?",
+    "answer": "You expressly relieve KTX.Finance of all liability arising from using such resources or participating in such promotions."
+  },
+  {
+    "question": "How does KTX.Finance comply with Applicable Law?",
+    "answer": "We must comply with Applicable Law, which may require us to, upon request by government agencies, take certain actions or provide information that may not be in your best interests."
+  },
+  {
+    "question": "What is included in the scope of content KTX.Finance is not responsible for?",
+    "answer": "KTX.Finance is not responsible for the content of any third party, including, but not limited to, information, materials, products, or services that KTX.Finance does not own or control."
+  },
+  {
+    "question": "What are some examples of resources third parties may offer?",
+    "answer": "Third parties may offer promotions related to your access and use of the Interface."
+  },
+  {
+    "question": "Why do users need to understand the terms regarding third-party promotions?",
+    "answer": "You must understand that these Terms do not apply to your dealings or relationships with any third parties."
+  },
+  {
+    "question": "What is one consequence of losing private key(s)?",
+    "answer": "You will not be able to transfer your digital assets to any blockchain address or wallet."
+  },
+  {
+    "question": "How does KTX.Finance handle responsibility for promotions?",
+    "answer": "KTX.Finance does not endorse or assume any responsibility for such resources or promotions."
+  },
+  {
+    "question": "What does the user waive against KTX.Finance and related parties?",
+    "answer": "The user irrevocably waives, releases, and discharges all claims, whether known or unknown to you, against KTX.Finance, its affiliates, and their respective shareholders, members, directors, officers, employees, agents, representatives, suppliers, and contractors related to any of the risks set forth in this Section 6."
+  },
+  {
+    "question": "Why is the user required to waive claims?",
+    "answer": "The user agrees not to be responsible or liable for the risks in Section 9."
+  },
+  {
+    "question": "How does the agreement regarding liability apply?",
+    "answer": "It releases the user from liability related to the risks set forth in this Section 6 against KTX.Finance and its associated parties."
+  },
+  {
+    "question": "What activities are explicitly prohibited under Section 7?",
+    "answer": "The specific activities set forth below (7.1.1 through 7.1.4) are prohibited uses."
+  },
+  {
+    "question": "How are the listed prohibited uses defined?",
+    "answer": "The specific activities set forth below are representative but not exhaustive of the prohibited uses."
+  },
+  {
+    "question": "What type of illegal activity is explicitly prohibited?",
+    "answer": "Promoting or facilitating illegal activities, including money laundering, terrorist financing, tax evasion, buying or selling illegal drugs, contraband, counterfeit goods, or illegal weapons."
+  },
+  {
+    "question": "What examples of transactions are listed as improper trading practices?",
+    "answer": "Improper or abusive trading practices include fraudulent acts or schemes to defraud, deceive, trick, or mislead, trading ahead of another user (front-running), fraudulent trading, accommodation trading, fictitious transactions, pre-arranged or non-competitive transactions, and cornering."
+  },
+  {
+    "question": "What proprietary rights are protected by the terms against KTX.Finance?",
+    "answer": "The agreement prohibits engaging in transactions involving items that infringe or violate any copyright, trademark, right of publicity, privacy, or any other proprietary right of KTX.Finance."
+  },
+  {
+    "question": "How can users engage in prohibited activities related to intellectual property?",
+    "answer": "Users must not engage in transactions that infringe upon the copyrights, trademarks, rights of publicity, privacy, or other proprietary rights belonging to KTX.Finance."
+  },
+  {
+    "question": "What are examples of illegal activities listed under prohibited uses?",
+    "answer": "Examples include money laundering, terrorist financing, tax evasion, buying or selling illegal drugs, contraband, counterfeit goods, or illegal weapons."
+  },
+  {
+    "question": "What is the prohibition regarding uploading content?",
+    "answer": "Uploading or transmitting viruses, worms, or Trojan horses is prohibited."
+  },
+  {
+    "question": "What types of trading practices are explicitly disallowed?",
+    "answer": "The disallowed trading practices include fraudulent acts, front-running, fraudulent trading, accommodation trading, fictitious transactions, pre-arranged or non-competitive transactions, and cornering."
+  },
+  {
+    "question": "Why must users confirm they will not engage in prohibited uses?",
+    "answer": "By using the Site or the Interface, the user confirms they will not do any of the listed prohibited activities."
+  },
+  {
+    "question": "How does the text relate to KTX.Finance's interests regarding intellectual property?",
+    "answer": "KTX.Finance protects its proprietary rights, and users are prohibited from engaging in transactions that violate these rights."
+  },
+  {
+    "question": "What is included in the scope of parties against whom claims are waived?",
+    "answer": "Claims are waived against KTX.Finance, its affiliates, and their respective shareholders, members, directors, officers, employees, agents, representatives, suppliers, and contractors."
+  },
+  {
+    "question": "What types of malicious code are mentioned in the context of affecting the Site or Interface?",
+    "answer": "malicious code includes ses, time bombs, cancelbots, spiders, or any other type of malicious code."
+  },
+  {
+    "question": "How can malicious code affect the Site or Interface?",
+    "answer": "Malicious code will or may be used in any way that will affect the functionality or operation of the Site or the Interface."
+  },
+  {
+    "question": "What types of language are prohibited when using the Site or Interface, according to Section 7.1.5?",
+    "answer": "Language prohibited includes libellous, defamatory, profane, obscene, pornographic, sexually explicit, indecent, lewd, vulgar, suggestive, harassing, stalking, hateful, threatening, offensive, discriminatory, bigoted, abusive, inflammatory, fraudulent, deceptive, or otherwise objectionable."
+  },
+  {
+    "question": "Why are certain actions prohibited regarding the use of the Site or Interface?",
+    "answer": "Actions are prohibited because they are in our sole discretion and may incite, threaten, facilitate, promote, or encourage hate, racial intolerance, or violent acts against others."
+  },
+  {
+    "question": "What is KTX.Finance's role regarding transaction oversight?",
+    "answer": "KTX.Finance has no oversight, involvement, or control concerning your transactions using the Interface."
+  },
+  {
+    "question": "How are transactions between users of the Interface executed?",
+    "answer": "All transactions between users of the Interface are executed peer-to-peer directly between the use [of the Interface]."
+  },
+  {
+    "question": "What activities involving other parties are prohibited under these Terms?",
+    "answer": "Engaging or attempting to engage or encourage, induce or assist any third party, or yourself attempt, to engage in any of the activities prohibited under this Section 4 or any other provision of these Terms."
+  },
+  {
+    "question": "What actions fall under the prohibition against harassing others?",
+    "answer": "Harass, abuse, or harm another person or entity, including KTX.Finance's collaborator and service providers, is prohibited."
+  },
+  {
+    "question": "How can a user misrepresent themselves on the Site or Interface?",
+    "answer": "Impersonating another user of the Site or the Interface or otherwise misrepresenting yourself is prohibited."
+  },
+  {
+    "question": "What kind of harm or objection can be caused by objectionable language?",
+    "answer": "Objectionable language can incite, threaten, facilitate, promote, or encourage hate, racial intolerance, or violent acts against others."
+  },
+  {
+    "question": "What is the nature of KTX.Finance as defined in the disclosures?",
+    "answer": "KTX.Finance is an informational site for the KTX Protocol."
+  },
+  {
+    "question": "Why does KTX.Finance not operate an exchange platform?",
+    "answer": "KTX.Finance does not operate an exchange platform or offer trade execution or clearing services."
+  },
+  {
+    "question": "How are transactions handled by the Interface users?",
+    "answer": "All transactions between users of the Interface are executed peer-to-peer directly between the use [of the Interface]."
+  },
+  {
+    "question": "What entities are included when discussing harm or abuse under Section 7.1.6?",
+    "answer": "The prohibitions include harming another person or entity, including KTX.Finance's collaborator and service providers."
+  },
+  {
+    "question": "What activities fall outside the scope of KTX.Finance's involvement concerning transactions?",
+    "answer": "KTX.Finance has no oversight, involvement, or control concerning your transactions using the Interface."
+  },
+  {
+    "question": "How are rs' blockchain addresses managed?",
+    "answer": "rs' blockchain addresses are managed through a third-party developed open-source smart contract."
+  },
+  {
+    "question": "What restrictions exist regarding U.S. Persons entering Perpetual Contracts using the Interface?",
+    "answer": "No U.S. Person may enter Perpetual Contracts using the Interface due to restrictions under the Commodity Exchange Act and regulations promulgated by the U.S. Commodity Futures Trading Commission (CFTC)."
+  },
+  {
+    "question": "What is KTX.Finance's registration status?",
+    "answer": "KTX.Finance is not registered or licensed by any regulatory agency or authority."
+  },
+  {
+    "question": "Why has no regulatory agency reviewed the use of the Site or the Interface?",
+    "answer": "No such agency or authority has reviewed or approved the use of the Site or the Interface."
+  },
+  {
+    "question": "How is the Site and the Interface provided to users?",
+    "answer": "The Site and the Interface are provided on an \"AS IS\" and \"AS AVAILABLE\" basis."
+  },
+  {
+    "question": "What guarantees does KTX.Finance make regarding the Site or the Interface?",
+    "answer": "KTX.Finance makes no guarantees of any kind or connection with the Site or the Interface."
+  },
+  {
+    "question": "What type of damages shall KTX.Finance not be liable for?",
+    "answer": "KTX.Finance shall not be liable for any direct, indirect, incidental, special, punitive, consequential or similar damages or liabilities whatsoever."
+  },
+  {
+    "question": "How is liability defined in the Limitation of Liability section?",
+    "answer": "KTX.Finance, its affiliates, suppliers and contractors, and their respective parties shall not be liable for various damages arising out of or in connection with the Site or the Interface."
+  },
+  {
+    "question": "What specific types of benefits are excluded from potential damages?",
+    "answer": "Damages for loss of fiat, assets, data, information, revenue, opportunities, use, goodwill, profits or other business or financial benefit are excluded from liability considerations."
+  },
+  {
+    "question": "What is included in the scope of items that parties shall not be liable for damages concerning?",
+    "answer": "The Site or the Interface, or other item provided by KTX.Finance, shall not result in liability."
+  },
+  {
+    "question": "What is a component excluded from liability when dealing with Site or Interface issues?",
+    "answer": "All direct, indirect, incidental, special, punitive, consequential or similar damages or liabilities are excluded from the liability of KTX.Finance and related parties."
+  },
+  {
+    "question": "How does the liability clause apply to KTX.Finance and its associated entities?",
+    "answer": "KTX.Finance, its affiliates, suppliers and contractors, and their respective stockholders, members, directors, officers, managers, employees, attorneys, agents, representatives, suppliers, and contractors shall not be liable."
+  },
+  {
+    "question": "What is the basis upon which the Site and Interface are provided?",
+    "answer": "The Site and the Interface are provided on an \"AS IS\" and \"AS AVAILABLE\" basis."
+  },
+  {
+    "question": "What regulatory restrictions govern Perpetual Contracts mentioned in the text?",
+    "answer": "Restrictions under the Commodity Exchange Act and the regulations promulgated thereunder by the U.S. Commodity Futures Trading Commission (CFTC) govern Perpetual Contracts."
+  },
+  {
+    "question": "How are assets, data, and information related to the Site or Interface treated regarding liability?",
+    "answer": "Liability is excluded for damages arising out of or in connection with the use of the Site or the Interface, including losses related to fiat, assets, data, information, revenue, etc."
+  },
+  {
+    "question": "Under what theories of liability is KTX.Finance not responsible for the execution or settlement of transactions between users of the Interface?",
+    "answer": "KTX.Finance is not responsible for the execution or settlement of transactions between users of the Interface under contract, tort (including negligence), civil liability, statute, strict liability, breach of warranties, or under any other theory of liability."
+  },
+  {
+    "question": "What terms must you defend and hold harmless KTX.Finance and related parties from?",
+    "answer": "You must defend, indemnify, and hold harmless KTX.Finance, its affiliates, members, member, managers, employees, attorneys, representatives, suppliers, and contractors from any claim, demand, lawsuit, action, proceeding, investigation, liability, damage, loss, cost or expense."
+  },
+  {
+    "question": "How does your use or conduct in connection with the Site or the Interface relate to indemnification?",
+    "answer": "Indemnification arises from (a) your use of or conduct in connection with the Site or the Interface, (b) your violation of these Terms, or (c) your misuse of the Site or the Interface, or any smart contract and/or script related thereto."
+  },
+  {
+    "question": "What actions trigger the indemnification requirement?",
+    "answer": "Indemnification is required for (a) your use of or conduct in connection with the Site or the Interface, (b) your violation of these Terms, (c) your misuse of the Site or the Interface, or (d) any smart contract and/or script related thereto."
+  },
+  {
+    "question": "What types of violations trigger indemnification?",
+    "answer": "Indemnification is triggered by (a) your use of or conduct in connection with the Site or the Interface, (b) your violation of these Terms, (c) your misuse of the Site or the Interface, and (d) your violation of any laws, rules, regulations, codes, statutes, ordinances, or orders of any governmental or quasi-governmental authorities."
+  },
+  {
+    "question": "What rights must not be violated by the user?",
+    "answer": "The indemnification covers the violation of the rights of any third party, including any intellectual property right, publicity, confidentiality, property, or privacy right."
+  },
+  {
+    "question": "Why is indemnification required regarding third-party assets?",
+    "answer": "Indemnification is required due to the potential for violation of the rights of any third party, including intellectual property rights, publicity, confidentiality, property, or privacy rights."
+  },
+  {
+    "question": "How does liability relate to external parties?",
+    "answer": "The liability context includes protection from claims arising out of your use or conduct related to the Site or Interface, violations of Terms, misuse of the Site or Interface, and violation of laws or governmental orders."
+  },
+  {
+    "question": "What is covered by the request for indemnification concerning external products?",
+    "answer": "Indemnification covers the use of a third-party product, service, and/or website."
+  },
+  {
+    "question": "What is KTX.Finance not responsible for regarding transactions?",
+    "answer": "KTX.Finance is not responsible for the execution or settlement of transactions between users of the Interface."
+  },
+  {
+    "question": "What entities are being defended by the indemnification clause?",
+    "answer": "KTX.Finance, its affiliates, members, member, managers, employees, attorneys, representatives, suppliers, and contractors."
+  },
+  {
+    "question": "What is included in the scope of liability claims?",
+    "answer": "Liability can arise from various legal theories such as contract, tort (including negligence), civil liability, statute, strict liability, breach of warranties, and any other theory of liability."
+  },
+  {
+    "question": "How does the text address protection against external legal action?",
+    "answer": "It covers defense against any claim, demand, lawsuit, action, proceeding, investigation, liability, damage, loss, cost, or expense."
+  },
+  {
+    "question": "What is a key risk associated with using the Site or Interface?",
+    "answer": "The risk involves potential claims, demands, lawsuits, actions, proceedings, investigations, liability, damage, loss, cost, or expense arising from use, conduct, misuse, or violation of terms and laws."
+  },
+  {
+    "question": "What is related to intellectual property that must be protected?",
+    "answer": "The indemnification covers the violation of any third party rights, including any intellectual property right, publicity, confidentiality, property, or privacy right."
+  },
+  {
+    "question": "What entity will use its best efforts to resolve potential disputes?",
+    "answer": "KTX.finance will use its best efforts to resolve potential disputes through informal, good faith negotiations."
+  },
+  {
+    "question": "How must a party contact KTX.Finance if a potential dispute arises?",
+    "answer": "You must contact us by sending a written notice of your claim (\"Notice\") to KTX.Finance on any of our official channels."
+  },
+  {
+    "question": "What information must the written notice of a claim describe?",
+    "answer": "The notice must (a) describe the nature and basis of the claim and (b) set forth the specific relief sought."
+  },
+  {
+    "question": "How long does the party have to reach an agreement before proceeding to arbitration?",
+    "answer": "If you and KTX.Finance cannot reach an agreement to resolve the claim within sixty (60) days of your email, then you and KTX.Finance agree to resolve the potential dispute according to the process set forth below."
+  },
+  {
+    "question": "What is the mechanism used to finally and exclusively settle claims or controversies?",
+    "answer": "Any claim or controversy arising out of or relating to the Site, the Interface, or these Terms, or any other acts or omissions for which you may contend that we are liable, including (but not limited to) any claim or controversy as to arbitrability (\"Dispute\"), shall be finally and exclusively settled by arbitration under the Corte Civil y Mercantil de Arbitraje (CIMA)."
+  },
+  {
+    "question": "Why must parties resolve all disputes by binding arbitration?",
+    "answer": "You are required to resolve all Disputes by binding arbitration."
+  },
+  {
+    "question": "What legal action is reserved regarding indemnification?",
+    "answer": "We reserve the right to assume, at your expense, the exclusive defense, and control of any matter subject to indemnification by you."
+  },
+  {
+    "question": "How must a party cooperate with the defense of a claim?",
+    "answer": "You agree to cooperate with our defense of any claim."
+  },
+  {
+    "question": "What process is used for dispute resolution initially?",
+    "answer": "KTX.finance will use its best efforts to resolve potential disputes through informal, good faith negotiations."
+  },
+  {
+    "question": "Where must claims related to the Site or Terms be settled?",
+    "answer": "Claims arising out of or relating to the Site, the Interface, or these Terms shall be finally and exclusively settled by arbitration under the Corte Civil y Mercantil de Arbitraje (CIMA)."
+  },
+  {
+    "question": "What is required regarding settling a claim without agreement?",
+    "answer": "You will not, in any event, settle any claim without [agreement]."
+  },
+  {
+    "question": "How are claims related to arbitrability settled?",
+    "answer": "Claims as to arbitrability shall be finally and exclusively settled by arbitration under the Corte Civil y Mercantil de Arbitraje (CIMA)."
+  },
+  {
+    "question": "What is the consequence of failing to reach an agreement within 60 days?",
+    "answer": "If you and KTX.Finance cannot reach an agreement to resolve the claim within sixty (60) days of your email, then you and KTX.Finance agree to resolve the potential dispute according to the process set forth below."
+  },
+  {
+    "question": "What specific jurisdiction governs the arbitration process?",
+    "answer": "The arbitration shall be under the Corte Civil y Mercantil de Arbitraje (CIMA)."
+  },
+  {
+    "question": "Where will the arbitration be held, by default?",
+    "answer": "The arbitration will be held in Madrid, Spain, unless you and we both agree to hold it elsewhere."
+  },
+  {
+    "question": "How must a single arbitrator be selected?",
+    "answer": "The single arbitrator shall be selected pursuant to the CIMA rules."
+  },
+  {
+    "question": "What restriction applies to the arbitrator regarding claims?",
+    "answer": "The arbitrator may not consolidate your claims with those of any other party."
+  },
+  {
+    "question": "Under which laws will these Terms be governed?",
+    "answer": "The interpretation and enforcement of these Terms, and any dispute related to these Terms, the Site, or the Interface, will be governed by and construed and enforced under the laws of the Bahamas, as applicable."
+  },
+  {
+    "question": "What happens if a claim is not filed within one year?",
+    "answer": "If a claim arising out of or related to these Terms or the Site or the Interface is not filed within one year after such claim arose, the claim is permanently barred."
+  },
+  {
+    "question": "What consequence results from failing to file a claim timely?",
+    "answer": "If a claim is not filed within one year, you and KTX.Finance will not have the right to assert the claim."
+  },
+  {
+    "question": "How does KTX.Finance's right or remedy compare to other remedies?",
+    "answer": "Any right or remedy of KTX.Finance set forth in these Terms is in addition to, and not in lieu of, any other right or remedy whether described in these Terms, under Applicable Law, at law, or in equity."
+  },
+  {
+    "question": "What survives termination of access to the Site or Interface?",
+    "answer": "The following sections of these Terms will survive any termination of your access to the Site or the Interface, regardless of the reasons for its expiration or termination, in addition to any other provision which by law."
+  },
+  {
+    "question": "What does the failure or delay of KTX.Finance not operate as?",
+    "answer": "The failure or delay of KTX.Finance in exercising any right, power, or privilege under these Terms shall not operate as a waiver thereof."
+  },
+  {
+    "question": "Where may a judgment on the award be entered?",
+    "answer": "Any judgment on the award rendered by the arbitrator may be entered in any court of competent jurisdiction."
+  },
+  {
+    "question": "What must arise out of or relate to these Terms be filed within one year?",
+    "answer": "Any claim arising out of or related to these Terms or the Site or the Interface must be filed within one year after such claim arose."
+  },
+  {
+    "question": "Why is filing a claim within one year important?",
+    "answer": "If the claim is not filed within one year, it is permanently barred, meaning you and KTX.Finance will not have the right to assert the claim."
+  },
+  {
+    "question": "What is subject to governing law?",
+    "answer": "The interpretation and enforcement of these Terms, and any dispute related to these Terms, the Site, or the Interface, are governed by and construed and enforced under the laws of the Bahamas, as applicable."
+  },
+  {
+    "question": "What provisions survive termination of access?",
+    "answer": "The following sections of these Terms will survive any termination of your access to the Site or the Interface, regardless of the reasons for its expiration or termination."
+  },
+  {
+    "question": "What is the effect of the invalidity or unenforceability of any Terms?",
+    "answer": "The invalidity or unenforceability of any of these Terms shall not affect the validity or enforceability of any other of these Terms, all of which shall remain in full force and effect."
+  },
+  {
+    "question": "What entity will have no responsibility or liability for failure or delay?",
+    "answer": "KTX.Finance will have no responsibility or liability for any failure or delay in performance of the Site or the Interface, or any loss or damage that you may incur."
+  },
+  {
+    "question": "How can KTX.Finance be exempted from responsibility regarding performance failures?",
+    "answer": "KTX.Finance will not be responsible for loss or damage due to any circumstance or event beyond their control."
+  },
+  {
+    "question": "What circumstances are excluded from KTX.Finance's responsibility?",
+    "answer": "Exclusions include events such as flood, extraordinary weather conditions, earthquake, act of God, fire, war, insurrection, riot, labour dispute, accident, government action, communications failure, power failure, and equipment or software malfunction."
+  },
+  {
+    "question": "What specific event is listed as an example of an uncontrollable circumstance?",
+    "answer": "Examples of circumstances beyond control include flood, extraordinary weather conditions, earthquake, or other act of God."
+  },
+  {
+    "question": "How can parties assign rights under these Terms regarding the Site or Interface?",
+    "answer": "You may not assign or transfer any right to use the Site, the Interface, or any of your rights or obligations under these Terms without our express prior written consent."
+  },
+  {
+    "question": "What condition must be met for transferring rights to the Site or Interface?",
+    "answer": "Transfer requires our express prior written consent, including by operation of law or in connection with any change of control."
+  },
+  {
+    "question": "How may KTX.Finance assign its own rights under these Terms?",
+    "answer": "KTX.Finance may assign or transfer any or all of its rights or obligations under these Terms, in whole or part, without notice or obtaining your consent or approval."
+  },
+  {
+    "question": "What is the relationship between these Terms and prior understandings?",
+    "answer": "These Terms contain the entire agreement between you and KTX.Finance and supersede all prior and contemporaneous understandings between the parties regarding the Interface and the Site or the Interface."
+  },
+  {
+    "question": "Why must these Terms be considered the entire agreement?",
+    "answer": "They are the entire agreement between you and KTX.Finance, superseding all prior and contemporaneous understandings."
+  },
+  {
+    "question": "What happens if there is a conflict between these Terms and another agreement?",
+    "answer": "The text mentions that in the event of any conflict between these Terms and any other agreeme..."
+  },
+  {
+    "question": "How do the terms ensure continued validity despite potential unenforceability?",
+    "answer": "Any Terms remain in full force and effect, regardless of the invalidity or unenforceability of any specific Terms."
+  },
+  {
+    "question": "What must be obtained for transferring a right to use the Site or Interface?",
+    "answer": "Express prior written consent is required for assigning or transferring any right to use the Site, the Interface, or any rights or obligations under these Terms."
+  },
+  {
+    "question": "What defines risks that KTX.Finance assumes no liability for?",
+    "answer": "KTX.Finance assumes no responsibility or liability for loss or damage resulting from failure or delay caused by events beyond their control."
+  },
+  {
+    "question": "What is KTX.Finance?",
+    "answer": "KTX.Finance is a decentralized derivatives protocol."
+  },
+  {
+    "question": "How does KTX.Finance enable trading?",
+    "answer": "It enables the trading of perpetual contracts with leverage of up to 100x."
+  },
+  {
+    "question": "What are the main selling points for traders regarding KTX.Finance?",
+    "answer": "KTX.Finance offers advantages such as complete custody of assets and mitigation of custodian risk."
+  },
+  {
+    "question": "Why are perpetual contracts unique?",
+    "answer": "Perpetual contracts do not have an expiration date, allowing traders to hold leveraged positions for longer durations."
+  },
+  {
+    "question": "How do perpetual contracts provide flexibility?",
+    "answer": "These contracts provide the flexibility to exit trades at the desired time, as long as the trader maintains a sufficient margin."
+  },
+  {
+    "question": "What risk can KTX.Finance help mitigate?",
+    "answer": "KTX.Finance helps mitigate custodian risk by securely storing assets in the user's non-custodian wallet."
+  },
+  {
+    "question": "How are transactions handled on KTX.Finance?",
+    "answer": "All transactions are transparently signed on-chain."
+  },
+  {
+    "question": "What does KTX.Finance ensure regarding asset control?",
+    "answer": "It ensures full control of the assets the user owns."
+  },
+  {
+    "question": "How do assets get stored when utilizing KTX.Finance?",
+    "answer": "Assets are securely stored in the user's non-custodian wallet."
+  },
+  {
+    "question": "What is the difference between KTX.Finance and centralized exchanges (CEXes) regarding custody?",
+    "answer": "Unlike most centralized exchanges (CEXes), our platform does not hold or have custody of assets."
+  },
+  {
+    "question": "How can users get questions answered about these Terms, the Site, or the Interface?",
+    "answer": "Users should get in touch with KTX.Finance on any of our official channels."
+  },
+  {
+    "question": "What is a benefit provided by utilizing KTX.Finance concerning custody?",
+    "answer": "It provides complete custody of your assets."
+  },
+  {
+    "question": "Why are all transactions signed on-chain?",
+    "answer": "This ensures full control of the assets you own."
+  },
+  {
+    "question": "What are the main selling points for traders according to KTX.Finance?",
+    "answer": "The advantages include complete custody of your assets and mitigating custodian risk."
+  },
+  {
+    "question": "How does KTX.Finance address asset storage compared to CEXes?",
+    "answer": "KTX.Finance stores assets in a non-custodian wallet, unlike centralized exchanges which hold or have custody."
+  },
+  {
+    "question": "What does KTX.Finance offer in terms of security?",
+    "answer": "It offers peace of mind, especially in light of recent issues with CEXes such as FTX and Genesis, where customer funds and assets were frozen."
+  },
+  {
+    "question": "How does KTX.Finance enable high leverage trading?",
+    "answer": "Through perpetual contracts, finance enables traders to leverage their positions by up to 100x."
+  },
+  {
+    "question": "Why is high leverage trading beneficial for some traders?",
+    "answer": "It is particularly beneficial for traders looking to maximize the advantages of leverage."
+  },
+  {
+    "question": "What mechanism ensures liquidity from liquidity providers?",
+    "answer": "Our sustainable multi-asset pool mechanism ensures liquidity from our liquidity providers."
+  },
+  {
+    "question": "How are liquidity providers incentivized by the protocol?",
+    "answer": "To incentivize liquidity providers, the protocol allocates 70% of the generated fees to pay a competitive real yield."
+  },
+  {
+    "question": "What is one example of the yield paid out to KLP stakers in wBNB?",
+    "answer": "Currently, the yield paid out in wBNB to KLP stakers is 144%."
+  },
+  {
+    "question": "What is the real yield offered by the protocol?",
+    "answer": "The real yield of the protocol is 26%."
+  },
+  {
+    "question": "What kind of trading experience does KTX.Finance offer?",
+    "answer": "It offers a seamless trading platform with a smooth and intuitive user interface, similar to a CEX-like experience."
+  },
+  {
+    "question": "How can advanced traders benefit from the platform's tools?",
+    "answer": "Advanced traders can benefit from incorporated trading view charts and trading tools."
+  },
+  {
+    "question": "What specific functionalities allow for efficient order execution?",
+    "answer": "Complex order functionalities allow for efficient order execution and the ability to set take-profit and stop-loss levels with just one click."
+  },
+  {
+    "question": "What are the three key stakeholders catered to by KTX.Finance?",
+    "answer": "KTX.Finance caters to traders as one of the three key stakeholders, alongside liquidity providers."
+  },
+  {
+    "question": "How do liquidity providers contribute to the system?",
+    "answer": "Liquidity providers stake their $KLP tokens to provide deep liquidity and facilitate high-leverage trading."
+  },
+  {
+    "question": "What feature allows traders to execute complex orders easily?",
+    "answer": "Complex order functionalities allow for efficient order execution and the ability to set take-profit and stop-loss levels with just one click."
+  },
+  {
+    "question": "What are examples of issues that prompted users to seek secure trading on KTX.Finance?",
+    "answer": "Recent issues with CEXes such as FTX and Genesis, where customer funds and assets were frozen."
+  },
+  {
+    "question": "What is the yield allocation percentage for generated fees?",
+    "answer": "The protocol allocates 70% of the generated fees to pay a competitive real yield."
+  },
+  {
+    "question": "What is KTX.Finance?",
+    "answer": "KTX.Finance is a decentralized derivatives protocol."
+  },
+  {
+    "question": "What does the partnership with ByteTrade Lab provide?",
+    "answer": "The partnership provides crucial support in technology expertise, product definition, business planning, and go-to-market strategies."
+  },
+  {
+    "question": "Why does KTX.Finance have enhanced credibility?",
+    "answer": "The partnership enhances our credibility and ensures the delivery of a robust and reliable platform."
+  },
+  {
+    "question": "How did KTX.Finance raise funding in July 2023?",
+    "answer": "KTX.Finance successfully raised US$ 4 million in Seed Round Funding led by Hashed."
+  },
+  {
+    "question": "What investors are renowned crypto investors besides Hashed?",
+    "answer": "Other renowned crypto investors include Alpha Lab, CRIT Ventures, Trinito, GSR Ventures, Kucoin Ventures, Sky9 Capital and Morpheus."
+  },
+  {
+    "question": "How does KTX calculate the median price of assets?",
+    "answer": "KTX has built a custom oracle that calculates the median price of assets from 7 different CEXs."
+  },
+  {
+    "question": "What are the assets used in the KLP pool calculation?",
+    "answer": "The assets used are BTC, ETH, and BNB within the KLP pool."
+  },
+  {
+    "question": "How is Oracle manipulation mitigated?",
+    "answer": "It is unlikely for Oracle manipulation to happen due to the size of the assets within the KLP pool and the distributed dataset across 7 CEXs."
+  },
+  {
+    "question": "What is a perpetual contract?",
+    "answer": "Perpetual contracts allow users to hold on to their leveraged positions for longer duration without expiring."
+  },
+  {
+    "question": "How do perpetual contracts benefit traders?",
+    "answer": "They do not have a settlement period so traders can hold a trade for as long as they want, as long as they have enough margin to keep it open."
+  },
+  {
+    "question": "What flexibility do perpetual contracts offer traders?",
+    "answer": "This gives them the flexibility to exit their trades at the right time."
+  },
+  {
+    "question": "What is the mechanism of the decentralized exchange liquidity pool model?",
+    "answer": "The decentralized exchange liquidity pool model is backe."
+  },
+  {
+    "question": "How does KTX.Finance allow users to trade perpetual contracts?",
+    "answer": "It allows users to trade perpetual with up to 100x leverage."
+  },
+  {
+    "question": "What are the features of perpetual contracts regarding expiration?",
+    "answer": "Perpetual contracts allow users to hold on to their leveraged positions for longer duration without expiring."
+  },
+  {
+    "question": "How do perpetual contracts differ from futures regarding settlement period?",
+    "answer": "Perpetual contracts or futures do not have a settlement period."
+  },
+  {
+    "question": "What is $KLP?",
+    "answer": "$KLP is a hybrid multi-asset pool."
+  },
+  {
+    "question": "How is $KLP structured?",
+    "answer": "$KLP is a multi-asset liquidity model which is a pool of tokens that liquidity providers pooled together."
+  },
+  {
+    "question": "What assets constitute the $KLP pool?",
+    "answer": "The $KLP pool is 50% $BUSD on one side and 50% assets on the other, comprising $BTC.B, $WETH and $BNB."
+  },
+  {
+    "question": "Why is $KLP marketed as an index token?",
+    "answer": "$KLP is marketed as an index token that farms because essentially you are holding a basket of tokens and earning fees from KTX.Finance."
+  },
+  {
+    "question": "How does the weighting within $KLP change?",
+    "answer": "The weighting of each token within $KLP is constantly re-balancing."
+  },
+  {
+    "question": "How can users obtain $KTC?",
+    "answer": "Users can only obtain $KTC via 2 means: purchasing it from the $KTC/$USDT pool on PancakeSwap, or holders of $KTX can stake their tokens for $esKTC and Multiplier Points."
+  },
+  {
+    "question": "How do LPs choose where to deposit funds?",
+    "answer": "Based on the minting/burning fees of $KLP, LPs can choose to deposit either $BUSD, assets OR both."
+  },
+  {
+    "question": "How are protocol transaction fees distributed?",
+    "answer": "$KTC stakes will accrue 30% of protocol transaction fees in the form of $BNB while $KLP will accrue 70%."
+  },
+  {
+    "question": "What mechanism allows for perpetual trading with low cost?",
+    "answer": "The LP model together with the Feeder oracle allows for perpetual trading with low cost and zero price impact."
+  },
+  {
+    "question": "How does the Feeder oracle function?",
+    "answer": "The Feeder oracle provides real-time, aggregated prices over 6 exchanges: Binance, Bitfinex, OKX, Kucoin, Kraken, and Coinbase."
+  },
+  {
+    "question": "What is the role of the $KLP token?",
+    "answer": "The $KLP token only serves as a liquidity receipt for LPs."
+  },
+  {
+    "question": "How can $KLP tokens be minted or burned?",
+    "answer": "$KLP tokens can only be minted/burned through the KTX.Finance Dapp."
+  },
+  {
+    "question": "Why is the LP model beneficial?",
+    "answer": "The LP model allows for perpetual trading with low cost and zero price impact."
+  },
+  {
+    "question": "What earning potential is associated with $KLP?",
+    "answer": "Liquidity providers pool tokens and earn fees from KTX and profit and losses of traders."
+  },
+  {
+    "question": "How are the asset holdings balanced?",
+    "answer": "The weighting of each token within $KLP is constantly re-balancing."
+  },
+  {
+    "question": "What is the key roadblock to the success of KTX.Finance?",
+    "answer": "The bearish macro environment that the crypto industry is facing."
+  },
+  {
+    "question": "Why has trading volume gone down drastically across CEXs and DEXs?",
+    "answer": "This is due to the bearish macro environment that the crypto industry is facing."
+  },
+  {
+    "question": "How do KTX remain confident in eventual adoption?",
+    "answer": "They remain confident in their ability to ship user friendly products that have product-to-market fit."
+  },
+  {
+    "question": "Why do most users trade on CEXs?",
+    "answer": "Most users trade on CEXs for the leveraged exposure that comes along with it."
+  },
+  {
+    "question": "Where will KTX be launched?",
+    "answer": "KTX will be launched on the BNB Chain."
+  },
+  {
+    "question": "Why would having an outlet for on-chain leveraged trading help build the ecosystem?",
+    "answer": "It would help with building the ecosystem with the narrative of self-custody."
+  },
+  {
+    "question": "What is the wide user base on BNB Chain composed of?",
+    "answer": "It has a long contingent of retail users who have utilized Binance and are making their first forays into self-sovereign ownership of assets."
+  },
+  {
+    "question": "What metrics demonstrate the strength of the BNB Chain addressable market?",
+    "answer": "The chain has consistently been in the top three of transactions, unique wallets, and Total Value Locked."
+  },
+  {
+    "question": "What are some protocols that are home to on the BNB Chain?",
+    "answer": "BNB Chain is also home to protocols like Venus (lending markets), Beefy (autocompounder), key Oracle partner Chainlink, and most uniquely Binance-peg asset-backed tokens."
+  },
+  {
+    "question": "How can KTX benefit from its position within the ecosystem?",
+    "answer": "KTX can have a mutually beneficial partnership within the BNB Chain and Mantle Network ecosystem."
+  },
+  {
+    "question": "What is identified as drivers for demand and value for $KTC?",
+    "answer": "There will be several demand & value drivers for $KTC."
+  },
+  {
+    "question": "What lack is mentioned as a driver for demand and value?",
+    "answer": "There is a lack of on-chain derivatives trading platforms on BNB Chain and Mantl."
+  },
+  {
+    "question": "What types of assets are available in addition to bridged tokens on the BNB Chain?",
+    "answer": "BNB Chain hosts most uniquely Binance-peg asset-backed tokens in addition to large supplies of other bridged tokens."
+  },
+  {
+    "question": "How does KTX aim to help with building the ecosystem?",
+    "answer": "Having an outlet for on-chain leveraged trading on BNB Chain would help with building the ecosystem."
+  },
+  {
+    "question": "What is the role of Chainlink on the BNB Chain ecosystem?",
+    "answer": "Chainlink is mentioned as a key Oracle partner in addition to other protocols and tokens hosted on the chain."
+  },
+  {
+    "question": "What is KTX.Finance?",
+    "answer": "KTX.Finance is the first perp DEX on Mantle Network."
+  },
+  {
+    "question": "How will KTX.Finance achieve a significant headstart?",
+    "answer": "It will have a significant headstart with the support of BNB Chain, Mantle Network and other leading investors."
+  },
+  {
+    "question": "What does KTX.Finance have in its pipeline?",
+    "answer": "KTX.Finance has a well-thought-out pipeline of “defi lego blocks” that users will enjoy."
+  },
+  {
+    "question": "How will using KTX.Finance benefit users?",
+    "answer": "More and more features would keep users within the ecosystem by using KTX.Finance as a fundamental layer."
+  },
+  {
+    "question": "What is the ‘Boost Percentage’?",
+    "answer": "The “Boost Percentage” is the numerical result of “Multiplier Points.”"
+  },
+  {
+    "question": "Why are Multiplier Points introduced?",
+    "answer": "Multiplier Points are a feature to reward long-term holders of $KTX."
+  },
+  {
+    "question": "How do $KTC holders receive multiplier points when staking $KTC?",
+    "answer": "$KTC holders receive multiplier points at a fixed rate of 50% APR."
+  },
+  {
+    "question": "What rewards do multiplier points earn?",
+    "answer": "Each multiplier point will earn the same amount of $BNB rewards as a regular $KTX token."
+  },
+  {
+    "question": "How is the APR boost calculated for $KTC holders?",
+    "answer": "The APR boost that $KTC holder receives will be calculated using the “boost percentage.”"
+  },
+  {
+    "question": "What risk did the GNS model prevent?",
+    "answer": "GNS prevented the higher risk of the pool being drained by capping the winning % on each trade at 900%."
+  },
+  {
+    "question": "Why was the GNS model not adopted?",
+    "answer": "The team chose not to adopt the GNS model for several reasons, including the higher risk of the pool being drained."
+  },
+  {
+    "question": "What is the primary risk associated with the $DAI / Cash-Settled denomination?",
+    "answer": "Traders that make a windfall have a higher chance of draining a higher % of the pool when they profit."
+  },
+  {
+    "question": "How did GNS address the risk of pool draining?",
+    "answer": "GNS prevented this by capping the winning % on each trade at 900%."
+  },
+  {
+    "question": "What design choice led to the decision against the GNS model?",
+    "answer": "The team chose a GMX-like design instead of the GNS-like model."
+  },
+  {
+    "question": "What was the mechanism used by GNS regarding winning percentages?",
+    "answer": "GNS prevented pool draining by capping the winning % on each trade at 900%."
+  },
+  {
+    "question": "What was given to GNS?",
+    "answer": "GNS had the flexibility to list exotic assets."
+  },
+  {
+    "question": "What is still yet to be tested?",
+    "answer": "The reliability of exotic assets in terms of liquidity depth and CEX price reliability is still yet to be tested."
+  },
+  {
+    "question": "How is the reliability of exotic assets assessed?",
+    "answer": "The reliability of these assets in terms of liquidity depth and CEX price reliability is still yet to be tested."
+  },
+  {
+    "question": "What risk came to light due to the $USDC saga?",
+    "answer": "Single Stablecoin Risk only came to light due to the $USDC saga."
+  },
+  {
+    "question": "Why did the $USDC saga pose a risk?",
+    "answer": "The $USDC saga posed a big risk to $DAI and could have potentially brought GNS to its knees."
+  },
+  {
+    "question": "What was the potential impact of the $USDC saga on GNS?",
+    "answer": "It could have potentially brought GNS to its knees."
+  },
+  {
+    "question": "What risk did the team not want to take?",
+    "answer": "A big dependency on a single asset was a risk that our team wasn’t ready to take."
+  },
+  {
+    "question": "What caused the Single Stablecoin Risk?",
+    "answer": "The $USDC saga caused the Single Stablecoin Risk to come to light."
+  },
+  {
+    "question": "How is reliability measured for exotic assets?",
+    "answer": "Reliability of these assets is measured in terms of liquidity depth and CEX price reliability."
+  },
+  {
+    "question": "What asset was at risk concerning the $USDC saga?",
+    "answer": "$DAI was posed a big risk due to the $USDC saga."
+  },
+  {
+    "question": "Why is dependency on a single asset considered a risk?",
+    "answer": "Such a big dependency on a single asset was a risk that our team wasn’t ready to take."
+  },
+  {
+    "question": "What is required for implementing the feature?",
+    "answer": "implement such a feature."
+  },
+  {
+    "question": "What were the factors tested regarding exotic assets?",
+    "answer": "Liquidity depth and CEX price reliability."
+  },
+  {
+    "question": "How did GNS demonstrate flexibility?",
+    "answer": "GNS had the flexibility to list exotic assets."
+  }
+]

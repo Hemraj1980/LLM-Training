@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+gemma-env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+logs/
+
+# Cache
+.cache/
+huggingface/
+.cache/huggingface/
+
+# Models
+models/*
+!models/.gitkeep
+checkpoints/
+outputs/
+merged_model/
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# LoRA Artifacts
+adapter_model.bin
+adapter_model.safetensors
+
+# Dataset Artifacts
+*.parquet
+
+# OS Files
+Thumbs.db
+.DS_Store
+
+# Temporary Files
+*.tmp
+*.bak

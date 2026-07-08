@@ -1,0 +1,9 @@
+pypdf
+transformers
+datasets
+peft
+accelerate
+sentencepiece
+torch
+fastapi
+uvicorn
